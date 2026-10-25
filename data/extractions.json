@@ -1,1 +1,297 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenues grew 24% year over year, with Google Cloud growth accelerating to 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and operating margin expanded to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says other income included a net gain of $98.0 billion, mainly from unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and the results outstanding, and the release names no weak area."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T22:05:38+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says AWS grew 36.7% year over year, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Management says operating income rose to $27.5 billion from $19.2 billion a year earlier.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says net income includes non-operating other income of $53.4 billion, mainly from Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and Advertising had another strong quarter, and the release reports higher sales and operating income."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T22:05:38+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "Management says its investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Management reports revenue up 26% year over year on a reported and constant currency basis.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says total costs and expenses rose 68%, including the litigation charge.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the core business is strong and investments are paying off, while the release also discloses a $9.89 billion legal charge."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T22:05:38+08:00"
+  },
+  {
+    "cik": "107687",
+    "company": "WINNEBAGO INDUSTRIES INC",
+    "accession": "0001628280-26-066605",
+    "release_date": "2026-10-21",
+    "period_end": "2026-08-29",
+    "period_label": "quarter ended 29 August 2026",
+    "figures": {
+      "revenue": {
+        "value": 645.1,
+        "unit": "USD millions",
+        "quote": "Net revenues were $645.1 million, a decrease of 17.0% compared to $777.3 million in the fourth quarter of Fiscal 2025"
+      },
+      "operating_income": {
+        "value": 17.6,
+        "unit": "USD millions",
+        "quote": "Operating income was $17.6 million, a decrease of 12.3% compared to $20.1 million in the fourth quarter of Fiscal 2025."
+      },
+      "net_income": {
+        "value": 9.7,
+        "unit": "USD millions",
+        "quote": "Net income was $9.7 million, compared to $13.7 million in the fourth quarter of Fiscal 2025."
+      },
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.34 | $ | 0.49 | $ | 1.21 | $ | 0.91"
+      }
+    },
+    "guidance": {
+      "text": "For Fiscal 2027 Winnebago expects net revenues of $2.65 to $2.80 billion.",
+      "quote": "Consolidated net revenues in the range of $2.65 to $2.80 billion;"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenues fell 17.0% on lower unit volume and product mix, partly offset by price adjustments.",
+        "quote": "Net revenues were $645.1 million, a decrease of 17.0% compared to $777.3 million in the fourth quarter of Fiscal 2025, primarily due to lower unit volume and product mix, partially offset by selective price adjustments."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says gross margin fell 30 basis points to 12.5% on volume deleverage.",
+        "quote": "Gross profit margin decreased 30 basis points in the quarter to 12.5%, primarily due to volume deleverage, partially offset by operational efficiencies from Motorhome segment transformation initiatives."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the timing and pace of market recovery are hard to predict.",
+        "quote": "Fiscal 2027 outlook reflects a market where the timing and pace of recovery remain difficult to predict,"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO cites persistent market pressure and an outlook where the pace of recovery is difficult to predict."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/107687-0001628280-26-066605.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/exh9912026q4earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/0001628280-26-066605-index.htm",
+    "saved_at": "2026-10-25T22:05:38+08:00"
+  },
+  {
+    "cik": "1466026",
+    "company": "Midland States Bancorp, Inc.",
+    "accession": "0001466026-26-000097",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 22.808,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 22,808 | 19,888"
+      },
+      "diluted_eps": {
+        "value": 0.95,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share | $ | 0.95 | $ | 0.82"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the quarter was solid, with diluted EPS of $0.95 and return on average assets of 1.35%.",
+        "quote": "We delivered diluted earnings per share of $0.95 and a 1.35% return on average assets while maintaining strong net interest margin."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says past-due, substandard and nonperforming loans declined and the nonperforming asset ratio improved to 0.86%.",
+        "quote": "Past-due, substandard and nonperforming loans declined, net charge-offs moderated from the prior quarter, and our nonperforming asset ratio improved to 0.86%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes another solid quarter, progress on legacy credit and solid momentum into the fourth quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1466026-0001466026-26-000097.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/msbi-20260930exx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/0001466026-26-000097-index.htm",
+    "saved_at": "2026-10-25T22:05:38+08:00"
+  }
+]
