@@ -293,5 +293,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/msbi-20260930exx991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/0001466026-26-000097-index.htm",
     "saved_at": "2026-10-25T22:05:38+08:00"
+  },
+  {
+    "cik": "910329",
+    "company": "MEDIFAST INC",
+    "accession": "0001628280-26-067151",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 72.048,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 72,048 | $ | 89,409"
+      },
+      "operating_income": {
+        "value": -19.358,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (19,358) | (4,081)"
+      },
+      "net_income": {
+        "value": -17.511,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (17,511) | $ | (2,261)"
+      },
+      "diluted_eps": {
+        "value": -1.57,
+        "unit": "USD per share",
+        "quote": "Loss per share - diluted | $ | (1.57) | $ | (0.21)"
+      }
+    },
+    "guidance": {
+      "text": "The company expects fourth quarter 2026 revenue of $55 million to $75 million and income per share of $0.00 to $0.25.",
+      "quote": "The company expects fourth quarter 2026 revenue to be in the range of $55 million to $75 million and fourth quarter 2026 income per share to be in the range of $0.00 to $0.25."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue was in line with guidance and coach productivity improved year-over-year for a fourth quarter running.",
+        "quote": "Revenue came in line with our guidance, and coach productivity improved year-over-year for the fourth consecutive quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management believes the company is on track to deliver profitability in the fourth quarter.",
+        "quote": "we believe we are on track to deliver profitability in the fourth quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Revenue fell 19.4%, mainly because the number of active earning coaches fell.",
+        "quote": "Third quarter 2026 revenue decreased 19.4% to $72.0 million from $89.4 million for the third quarter of 2025, primarily driven by a decrease in the number of active earning coaches."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "Most of the Catalyst cost programme has been carried out.",
+        "quote": "With our launches complete and most of our Catalyst cost program executed"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses execution and expected fourth-quarter profit, but the release reports lower revenue and expects fewer coaches through 2026."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/910329-0001628280-26-067151.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/medq32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/0001628280-26-067151-index.htm",
+    "saved_at": "2026-10-27T06:08:37+08:00"
+  },
+  {
+    "cik": "1622194",
+    "company": "Easterly Government Properties, Inc.",
+    "accession": "0001622194-26-000032",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 93.611,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 93,611 | $ | 86,151"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 5.5,
+        "unit": "USD millions",
+        "quote": "Properties, Inc. | $ | 5,500 | $ | 1,213"
+      },
+      "diluted_eps": {
+        "value": 0.11,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.11 | $ | 0.02"
+      }
+    },
+    "guidance": {
+      "text": "The company is raising the lower end of its full-year 2026 Core FFO per share guidance, to a range of $3.08 to $3.13.",
+      "quote": "The Company is raising the lower end of its guidance for full-year 2026 Core FFO per share on a fully diluted basis at a range of $3.08 - $3.13."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the government-focused portfolio gives stability despite market volatility.",
+        "quote": "Despite continued volatility in the broader market, Easterly’s government-focused portfolio continues to provide stability and durability,"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The company reports Core FFO of $38.0 million, or $0.78 per share, for the quarter.",
+        "quote": "Core FFO of $38.0 million, or $0.78 per share on a fully diluted basis"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company raised the lower end of its 2026 Core FFO per share guidance.",
+        "quote": "The Company is raising the lower end of its guidance for full-year 2026 Core FFO per share on a fully diluted basis at a range of $3.08 - $3.13."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites stability and disciplined execution, and the company raised the low end of its 2026 outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1622194-0001622194-26-000032.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/dea-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/0001622194-26-000032-index.htm",
+    "saved_at": "2026-10-27T06:08:37+08:00"
   }
 ]
