@@ -421,5 +421,254 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/dea-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/0001622194-26-000032-index.htm",
     "saved_at": "2026-10-27T06:08:37+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,228 | $ | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Alphabet revenues growing 25% year-over year"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues more than doubled.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to growth across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:32+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 12% in the third quarter.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion, at a record operating margin.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell, mainly because of last year's investment gains.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and projects growth above 40% in 2027 and 2028."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:32+08:00"
+  },
+  {
+    "cik": "1623925",
+    "company": "Antero Midstream Corp",
+    "accession": "0001104659-26-119692",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 327.022,
+        "unit": "USD millions",
+        "quote": "Total revenue | 294,821 | 327,022"
+      },
+      "operating_income": {
+        "value": 557.228,
+        "unit": "USD millions",
+        "quote": "Operating income | 180,493 | 557,228"
+      },
+      "net_income": {
+        "value": 392.657,
+        "unit": "USD millions",
+        "quote": "Net income and comprehensive income | $ | 115,984 | 392,657"
+      },
+      "diluted_eps": {
+        "value": 0.82,
+        "unit": "USD per share",
+        "quote": "Net income per common share–diluted | $ | 0.24 | 0.82"
+      }
+    },
+    "guidance": {
+      "text": "Antero Midstream guides 2026 net income of $765 million to $815 million.",
+      "quote": "Net Income | $ | 765 | $ | 815 | $ | 280"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income was $393 million, or $0.82 per diluted share.",
+        "quote": "Net Income was $393 million, or $0.82 per diluted share, a 242% per share increase compared to the prior year quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Capital spending stayed flat while volumes and earnings grew.",
+        "quote": "Antero Midstream delivered another quarter of year-over-year throughput and earnings growth with flat capital investments."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Growth pads and water integration are expected to lift fourth quarter 2026 and 2027 EBITDA.",
+        "quote": "These growth pads and integration efforts are expected to drive visible EBITDA growth in the fourth quarter of 2026 and 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites growth in throughput and earnings and expects visible EBITDA growth ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1623925-0001104659-26-119692.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1623925/000110465926119692/tm2628429d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1623925/000110465926119692/0001104659-26-119692-index.htm",
+    "saved_at": "2026-11-04T06:08:32+08:00"
+  },
+  {
+    "cik": "816956",
+    "company": "CONMED Corp",
+    "accession": "0000816956-26-000110",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 335.557,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 335,557 | $ | 337,926"
+      },
+      "operating_income": {
+        "value": 37.144,
+        "unit": "USD millions",
+        "quote": "Income from operations | 37,144 | 11,879"
+      },
+      "net_income": {
+        "value": 19.796,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 19,796 | $ | 2,859"
+      },
+      "diluted_eps": {
+        "value": 0.66,
+        "unit": "USD per share",
+        "quote": "Diluted EPS | 0.66 | 0.09"
+      }
+    },
+    "guidance": {
+      "text": "CONMED expects full year 2026 net sales of $1,360 million to $1,366 million.",
+      "quote": "Net Sales (GAAP) | $ | 1,360 | $ | 1,366"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third quarter sales fell 0.7% as reported.",
+        "quote": "Sales of $335.6 million decreased 0.7% year-over-year as reported and decreased 0.8% on a constant currency(2) basis."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "GAAP diluted EPS was $0.66.",
+        "quote": "Diluted earnings per share (GAAP) were $0.66, up 613.7%."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says updated guidance reflects the third quarter and the latest outlook.",
+        "quote": "Our updated full year guidance reflects this strong performance in the third quarter and our latest outlook as we close out the year."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong execution and balanced growth, and expects to expand market share."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/816956-0000816956-26-000110.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/cnmdearningsrelease9302026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/0000816956-26-000110-index.htm",
+    "saved_at": "2026-11-04T06:08:32+08:00"
   }
 ]

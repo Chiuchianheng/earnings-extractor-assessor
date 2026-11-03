@@ -1,0 +1,234 @@
+Company: CONMED Corp (CIK 816956)
+Accession: 0000816956-26-000110
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/cnmdearningsrelease9302026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/0000816956-26-000110-index.htm
+Saved: 2026-11-04T06:08:32+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 cnmdearningsrelease9302026.htm EX-99.1
+NEWS RELEASE
+CONTACT:
+CONMED Corporation
+Investor Relations
+ir@conmed.com
+CONMED Corporation Reports Third Quarter 2026 Financial Results; Updates Full Year 2026 Guidance
+Largo, Florida, October 28, 2026 – CONMED Corporation (NYSE: CNMD) today reported financial results for the third quarter ended September 30, 2026 and updated its financial guidance for the full year ending 2026.
+Third Quarter 2026 Highlights(1)
+•Sales of $335.6 million decreased 0.7% year-over-year as reported and decreased 0.8% on a constant currency(2) basis.
+•Excluding the impact of the Company’s previously announced strategic exits of GI product offerings, net sales increased 6.7% on an organic constant currency(2) (3) basis.
+•Domestic sales decreased 11.0% as reported and increased 0.8% on an organic(2)(3) basis.
+•International sales increased 13.1% as reported, increased 12.8% on a constant currency(2) basis, and increased 13.8% on an organic constant currency(2)(3) basis.
+•Diluted earnings per share (GAAP) were $0.66, up 613.7%.
+•Adjusted diluted earnings per share(2) were $1.04, down 3.2%.
+Third Quarter 2026 Operational Announcements
+•On July 22, 2026, the Company announced the AirSeal® Robotic Solution is now indicated for use with Intuitive’s 8 mm hex cannulas used as part of the Intuitive da Vinci 5 platform.
+"Our third quarter organic, constant currency net sales growth was consistent with our expectations and our adjusted diluted EPS exceeded them, reflecting our team’s strong execution," said Patrick J. Beyer, CONMED’s President and Chief Executive Officer. "Importantly, our net sales growth on an organic, constant currency basis included balanced contributions from both our Orthopedic and General Surgery product lines, which were in turn powered by commercial traction across our key product growth platforms: AirSeal, Buffalo Filter, and BioBrace. Our updated full year guidance reflects this strong performance in the third quarter and our latest outlook as we close out the year."
+Mr. Beyer continued: "Looking ahead, our global team remains focused on executing our growth strategy to expand awareness and adoption of our key product platforms across the minimally invasive surgery, smoke evacuation, and orthopedic soft tissue repair markets. With a sharpened strategic focus on these key markets following our recent portfolio optimization activities, CONMED is better positioned to support our customers, expand our market share, and drive both long-term growth and value creation going forward."
+2026 Financial Guidance
+The Company is updating its full year 2026 financial guidance to reflect its third quarter performance and updated outlook for the full year. For the twelve months ended December 31, 2026, the Company now expects:
+Dollars in millions, except per share figures Percentages on a year-over-year basis, may not foot due to rounding | Twelve Months Ending December 31, 2026
+Updated Financial Guidance | Prior Financial Guidance(5)
+Low | High | Low | High
+Net Sales (GAAP) | $ | 1,360 | $ | 1,366 | $ | 1,358 | $ | 1,373
+Net Sales Growth, as reported | (1.1) | % | (0.6) | % | (1.2) | % | (0.1) | %
+Estimated impact of foreign currency exchange rate fluctuations | (0.7) | % | (0.7) | % | (0.5) | % | (0.5) | %
+Net Sales Growth, Constant Currency | (1.7) | % | (1.3) | % | (1.7) | % | (0.7) | %
+Estimated impact of strategic product offering exits(3) | 6.7 | % | 6.8 | % | 6.7 | % | 6.7 | %
+Net Sales Growth, Organic Constant Currency | 5.0 | % | 5.5 | % | 5.0 | % | 6.0 | %
+Adjusted Diluted EPS(4) | $ | 4.54 | $ | 4.61 | $ | 4.48 | $ | 4.60
+Percentage Change | (1.2) | % | 0.4 | % | (2.4) | % | 0.2 | %
+Notes to Financial Information Above
+(1) All growth rates are presented on a year-over-year basis, unless noted otherwise.
+(2) Constant currency growth, organic growth, organic constant currency growth, and adjusted EPS are non-GAAP financial measures. Reconciliations of GAAP to non-GAAP financial measures appear below.
+(3) Organic constant currency revenue excludes the sales of gastroenterology ("GI") product offerings for the three and nine months ended September 30, 2026 and 2025, and twelve months ending December 31, 2026 and 2025, related to the Company’s previously announced strategic exits as part of its portfolio optimization strategy.
+(4) Information reconciling forward-looking adjusted diluted net earnings per share to the comparable GAAP financial measures is unavailable to the company without unreasonable effort, as discussed below.
+(5) "Prior financial guidance" reflects the Company’s full year 2026 financial guidance, previously updated on July 29, 2026.
+Conference Call
+The Company’s management will host a conference call today at 4:30 p.m. ET to discuss its third quarter 2026 results.
+To participate in the conference call via live webcast, please click here. To participate via telephone, please click here to pre-register and obtain the dial-in number and passcode.
+This conference call webcast can also be accessed from the “Investors” section of CONMED's website: https://www.conmed.com/en/investor-relations. The webcast replay of the call will be available at the same site approximately one hour after the end of the call.
+Consolidated Condensed Statements of Income
+(in thousands except per share amounts, unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net sales | $ | 335,557 | $ | 337,926 | $ | 996,090 | $ | 1,001,526
+Cost of sales | 146,409 | 171,807 | 426,038 | 469,336
+Gross profit | 189,148 | 166,119 | 570,052 | 532,190
+% of sales | 56.4 | % | 49.2 | % | 57.2 | % | 53.1 | %
+Selling & administrative expense | 136,416 | 140,339 | 423,667 | 425,207
+Research & development expense | 15,588 | 13,901 | 47,421 | 40,985
+Income from operations | 37,144 | 11,879 | 98,964 | 65,998
+% of sales | 11.1 | % | 3.5 | % | 9.9 | % | 6.6 | %
+Interest expense | 11,135 | 7,606 | 26,078 | 23,716
+Other (income) / expense | - | - | (2,825) | 418
+Income before income taxes | 26,009 | 4,273 | 75,711 | 41,864
+Provision for income taxes | 6,213 | 1,414 | 19,016 | 11,548
+Net income | $ | 19,796 | $ | 2,859 | $ | 56,695 | $ | 30,316
+Basic EPS | $ | 0.66 | $ | 0.09 | $ | 1.88 | $ | 0.98
+Diluted EPS | 0.66 | 0.09 | 1.87 | 0.97
+Basic shares | 29,926 | 30,955 | 30,178 | 31,027
+Diluted shares | 30,125 | 31,050 | 30,253 | 31,145
+Sales Summary(1)
+(in millions, unaudited)
+Three Months Ended September 30,
+% Change
+Domestic | International
+2026 | 2025 | As Reported | Impact of Foreign Currency | Constant Currency | Impact of GI(2) | Organic(2) Constant Currency | As Reported | Impact of GI(2) | Organic(2) | As Reported | Impact of Foreign Currency | Constant Currency | Impact of GI(2) | Organic(2) Constant Currency
+Orthopedic Surgery | $ | 148.8 | $ | 138.2 | 7.7 | % | -0.5 | % | 7.2 | % | 0.0 | % | 7.2 | % | -1.7 | % | 0.0 | % | -1.7 | % | 13.5 | % | -0.8 | % | 12.7 | % | 0.0 | % | 12.7 | %
+General Surgery | 186.7 | 199.7 | -6.5 | % | 0.1 | % | -6.4 | % | 12.8 | % | 6.4 | % | -14.4 | % | 16.3 | % | 1.9 | % | 12.6 | % | 0.3 | % | 12.9 | % | 2.6 | % | 15.5 | %
+$ | 335.6 | $ | 337.9 | -0.7 | % | -0.1 | % | -0.8 | % | 7.5 | % | 6.7 | % | -11.0 | % | 11.8 | % | 0.8 | % | 13.1 | % | -0.3 | % | 12.8 | % | 1.0 | % | 13.8 | %
+Domestic | $ | 172.7 | $ | 194.0 | -11.0 | % | 0.0 | % | -11.0 | % | 11.8 | % | 0.8 | %
+International | 162.9 | 143.9 | 13.1 | % | -0.3 | % | 12.8 | % | 1.0 | % | 13.8 | %
+$ | 335.6 | $ | 337.9 | -0.7 | % | -0.1 | % | -0.8 | % | 7.5 | % | 6.7 | %
+Three Months Ended September 30,
+% Change
+Domestic | International
+2026 | 2025 | As Reported | Impact of Foreign Currency | Constant Currency | As Reported | As Reported | Impact of Foreign Currency | Constant Currency
+Single-use Products | $ | 285.7 | $ | 289.2 | -1.2 | % | -0.1 | % | -1.3 | % | -11.5 | % | 13.4 | % | -0.4 | % | 13.0 | %
+Capital Products | 49.8 | 48.7 | 2.2 | % | -0.1 | % | 2.1 | % | -7.3 | % | 11.9 | % | -0.2 | % | 11.7 | %
+$ | 335.6 | $ | 337.9 | -0.7 | % | -0.1 | % | -0.8 | % | -11.0 | % | 13.1 | % | -0.3 | % | 12.8 | %
+(1) Amounts reported in millions within the Sales Summary are computed based on the amounts in thousands. As a result, the sum of the components may not equal the total amount reported in millions due to rounding. Certain columns and rows within tables may not add due to the use of rounded numbers. Percentages presented are calculated from the underlying unrounded amounts.
+(2) Organic constant currency revenue excludes the sales of gastroenterology ("GI") product offerings for the three months ended September 30, 2026 and 2025.
+Sales Summary(1)
+(in millions, unaudited)
+Nine Months Ended September 30,
+% Change
+Domestic | International
+2026 | 2025 | As Reported | Impact of Foreign Currency | Constant Currency | Impact of GI(2) | Organic(2) Constant Currency | As Reported | Impact of GI(2) | Organic(2) | As Reported | Impact of Foreign Currency | Constant Currency | Impact of GI(2) | Organic(2) Constant Currency
+Orthopedic Surgery | $ | 448.8 | $ | 417.2 | 7.6 | % | -1.4 | % | 6.2 | % | 0.0 | % | 6.2 | % | 1.3 | % | 0.0 | % | 1.3 | % | 11.4 | % | -2.2 | % | 9.2 | % | 0.0 | % | 9.2 | %
+General Surgery | 547.3 | 584.3 | -6.3 | % | -0.5 | % | -6.8 | % | 10.8 | % | 4.0 | % | -12.0 | % | 14.4 | % | 2.4 | % | 7.0 | % | -1.5 | % | 5.5 | % | 1.9 | % | 7.4 | %
+$ | 996.1 | $ | 1,001.5 | -0.5 | % | -0.9 | % | -1.4 | % | 6.4 | % | 5.0 | % | -8.3 | % | 10.3 | % | 2.0 | % | 9.6 | % | -1.9 | % | 7.7 | % | 0.8 | % | 8.5 | %
+Domestic | $ | 521.2 | $ | 568.3 | -8.3 | % | 0.0 | % | -8.3 | % | 10.3 | % | 2.0 | %
+International | 474.9 | 433.2 | 9.6 | % | -1.9 | % | 7.7 | % | 0.8 | % | 8.5 | %
+$ | 996.1 | $ | 1,001.5 | -0.5 | % | -0.9 | % | -1.4 | % | 6.4 | % | 5.0 | %
+Nine Months Ended September 30,
+% Change
+Domestic | International
+2026 | 2025 | As Reported | Impact of Foreign Currency | Constant Currency | As Reported | As Reported | Impact of Foreign Currency | Constant Currency
+Single-use Products | $ | 850.8 | $ | 863.2 | -1.4 | % | -0.9 | % | -2.3 | % | -9.6 | % | 9.9 | % | -2.0 | % | 7.9 | %
+Capital Products | 145.2 | 138.3 | 5.0 | % | -0.8 | % | 4.2 | % | 1.6 | % | 8.2 | % | -1.5 | % | 6.7 | %
+$ | 996.1 | $ | 1,001.5 | -0.5 | % | -0.9 | % | -1.4 | % | -8.3 | % | 9.6 | % | -1.9 | % | 7.7 | %
+(1) Amounts reported in millions within the Sales Summary are computed based on the amounts in thousands. As a result, the sum of the components may not equal the total amount reported in millions due to rounding. Certain columns and rows within tables may not add due to the use of rounded numbers. Percentages presented are calculated from the underlying unrounded amounts.
+(2) Organic constant currency revenue excludes the sales of gastroenterology ("GI") product offerings for the nine months ended September 30, 2026 and 2025.
+Reconciliation of Reported Net Income to Adjusted Net Income
+(in thousands, except per share amounts, unaudited)
+Three Months Ended September 30, 2026
+Gross Profit | Selling & Administrative Expense | Research & Development Expense | Operating Income | Interest Expense | Other (Income) / Expense | Tax Expense | Effective Tax Rate | Net Income | Diluted EPS
+As reported | $ | 189,148 | $ | 136,416 | $ | 15,588 | $ | 37,144 | $ | 11,135 | $ | - | $ | 6,213 | 23.9 | % | $ | 19,796 | $ | 0.66
+% of sales | 56.4 | % | 40.7 | % | 4.6 | % | 11.1 | %
+Operational optimization costs(1) | 97 | (3,132) | - | 3,229 | - | - | 659 | 2,570
+EU medical device regulations(2) | - | - | (1,857) | 1,857 | - | - | 379 | 1,478
+Contingent consideration fair value adjustments(3) | - | (605) | - | 605 | - | - | 124 | 481
+Termination of distribution agreement(4) | 162 | - | - | 162 | - | - | 33 | 129
+Gain on sale of product offering(5) | - | 213 | - | (213) | - | - | (43) | (170)
+$ | 189,407 | $ | 132,892 | $ | 13,731 | $ | 42,784 | $ | 11,135 | $ | - | $ | 7,365 | $ | 24,284
+Adjusted gross profit % | 56.4 | %
+Amortization(6) | $ | 1,500 | (7,247) | - | 8,747 | (611) | - | 2,270 | 7,088
+As adjusted | $ | 125,645 | $ | 13,731 | $ | 51,531 | $ | 10,524 | $ | - | $ | 9,635 | 23.5 | % | $ | 31,372 | $ | 1.04
+% of sales | 37.4 | % | 4.1 | % | 15.4 | %
+Three Months Ended September 30, 2025
+Gross Profit | Selling & Administrative Expense | Research & Development Expense | Operating Income | Interest Expense | Other (Income) / Expense | Tax Expense | Effective Tax Rate | Net Income | Diluted EPS
+As reported | $ | 166,119 | $ | 140,339 | $ | 13,901 | $ | 11,879 | $ | 7,606 | $ | - | $ | 1,414 | 33.1 | % | $ | 2,859 | $ | 0.09
+% of sales | 49.2 | % | 41.5 | % | 4.1 | % | 3.5 | %
+Operational optimization costs(1) | 3,729 | (5,516) | - | 9,245 | - | - | 2,291 | 6,954
+Contingent consideration fair value adjustments(3) | - | (1,341) | - | 1,341 | - | - | 332 | 1,009
+Product rationalization costs(7) | 19,653 | - | - | 19,653 | - | - | 4,870 | 14,783
+Legal matters(8) | - | (319) | - | 319 | - | - | 79 | 240
+$ | 189,501 | $ | 133,163 | $ | 13,901 | $ | 42,437 | $ | 7,606 | $ | - | $ | 8,986 | $ | 25,845
+56.1 | %
+Amortization(6) | $ | 1,500 | (7,233) | - | 8,733 | (1,276) | - | 2,438 | 7,571
+As adjusted | $ | 125,930 | $ | 13,901 | $ | 51,170 | $ | 6,330 | $ | - | $ | 11,424 | 25.5 | % | $ | 33,416 | $ | 1.08
+% of sales | 37.3 | % | 4.1 | % | 15.1 | %
+(1) In 2026 and 2025, the Company incurred costs related to the engagement of a consulting firm to evaluate and propose improvements to our manufacturing operations and other operational optimization charges which are included in cost of sales. In addition, we incurred consulting fees, legal fees and other charges related to operational optimization which are included in selling & administrative expense.
+(2) In 2026, the Company incurred costs to comply with the European Union's Medical Device Regulations (MDR).
+(3) In 2026 and 2025, the Company recorded expense related to the fair value adjustments of contingent consideration.
+(4) In 2026, the Company recognized an expense related to the early termination of an agreement granting the Company exclusive distribution rights.
+(5) In 2026, the Company recognized a gain on the sale of certain assets related to gastroenterology products.
+(6) Includes amortization of intangible assets and deferred financing fees.
+(7) In 2025, the Company wrote off inventory, equipment, tooling and patents related to the cancellation of planned new product lines and discontinuation of certain catalog numbers as a result of our operational optimization consultation and internal review.
+(8) In 2025, the Company incurred costs for third party services pertaining to potential issues with certain royalty payments to surgeons involved in design teams.
+Reconciliation of Reported Net Income to Adjusted Net Income
+(in thousands, except per share amounts, unaudited)
+Nine Months Ended September 30, 2026
+Gross Profit | Selling & Administrative Expense | Research & Development Expense | Operating Income | Interest Expense | Other (Income) / Expense | Tax Expense | Effective Tax Rate | Net Income | Diluted EPS
+As reported | $ | 570,052 | $ | 423,667 | $ | 47,421 | $ | 98,964 | $ | 26,078 | $ | (2,825) | $ | 19,016 | 25.1 | % | $ | 56,695 | $ | 1.87
+% of sales | 57.2 | % | 42.5 | % | 4.8 | % | 9.9 | %
+Operational optimization costs(1) | 476 | (17,731) | - | 18,207 | - | - | 4,112 | 14,095
+Product rationalization costs(2) | 6,911 | - | - | 6,911 | - | - | 1,614 | 5,297
+Loss on sale of product offering(3) | - | (4,425) | - | 4,425 | - | - | 1,033 | 3,392
+EU medical device regulations(4) | - | - | (4,107) | 4,107 | - | - | 898 | 3,209
+Executive transition costs(5) | - | (3,342) | - | 3,342 | - | - | 761 | 2,581
+Contingent consideration fair value adjustments(6) | - | (1,215) | - | 1,215 | - | - | 262 | 953
+Gain on early extinguishment of debt, net(7) | - | - | - | - | - | 2,825 | (660) | (2,165)
+Termination of distribution agreement(8) | (1,702) | - | - | (1,702) | - | - | (391) | (1,311)
+Gain on sale of product offering(9) | - | 6,066 | - | (6,066) | - | - | (1,388) | (4,678)
+$ | 575,737 | $ | 403,020 | $ | 43,314 | $ | 129,403 | $ | 26,078 | $ | - | $ | 25,257 | $ | 78,068
+Adjusted gross profit % | 57.8 | %
+Amortization(10) | $ | 4,500 | (21,745) | - | 26,245 | (2,940) | - | 7,076 | 22,109
+As adjusted | $ | 381,275 | $ | 43,314 | $ | 155,648 | $ | 23,138 | $ | - | $ | 32,333 | 24.4 | % | $ | 100,177 | $ | 3.31
+% of sales | 38.3 | % | 4.3 | % | 15.6 | %
+Nine Months Ended September 30, 2025
+Gross Profit | Selling & Administrative Expense | Research & Development Expense | Operating Income | Interest Expense | Other (Income) / Expense | Tax Expense | Effective Tax Rate | Net Income | Diluted EPS
+As reported | $ | 532,190 | $ | 425,207 | $ | 40,985 | $ | 65,998 | $ | 23,716 | $ | 418 | $ | 11,548 | 27.6 | % | $ | 30,316 | $ | 0.97
+% of sales | 53.1 | % | 42.5 | % | 4.1 | % | 6.6 | %
+Operational optimization costs(1) | 12,262 | (8,456) | - | 20,718 | - | - | 4,045 | 16,673
+Product rationalization costs(2) | 19,653 | - | - | 19,653 | - | - | 4,870 | 14,783
+Executive transition costs(5) | - | (12,165) | - | 12,165 | - | - | 2,812 | 9,353
+Contingent consideration fair value adjustments(6) | - | (3,504) | - | 3,504 | - | - | 1,046 | 2,458
+Legal matters(11) | - | (2,548) | - | 2,548 | - | - | 453 | 2,095
+Loss on early extinguishment of debt, net(7) | - | - | - | - | - | (418) | 47 | 371
+Gain on sale of product offering(9) | - | 354 | - | (354) | - | - | (82) | (272)
+$ | 564,105 | $ | 398,888 | $ | 40,985 | $ | 124,232 | $ | 23,716 | $ | - | $ | 24,739 | $ | 75,777
+Adjusted gross profit % | 56.3 | %
+Amortization(10) | $ | 4,500 | (21,597) | - | 26,097 | (4,107) | - | 7,335 | 22,869
+As adjusted | $ | 377,291 | $ | 40,985 | $ | 150,329 | $ | 19,609 | $ | - | $ | 32,074 | 24.5 | % | $ | 98,646 | $ | 3.17
+% of sales | 37.7 | % | 4.1 | % | 15.0 | %
+(1) In 2026 and 2025, the Company incurred costs related to the engagement of a consulting firm to evaluate and propose improvements to our manufacturing operations and other operational optimization charges which are included in cost of sales. In addition, we incurred consulting fees, legal fees and other charges related to operational optimization which are included in selling & administrative expense.
+(2) In 2026, the Company wrote off inventory, equipment and tooling to cost of goods sold related to the discontinuation of certain products. In 2025, the Company wrote off inventory, equipment, tooling and patents related to the cancellation of planned new product lines and discontinuation of certain catalog numbers as a result of our operational optimization consultation and internal review.
+(3) In 2026, the Company recognized a loss on the sale of certain assets related to gastroenterology products that was recorded as a sale of a business.
+(4) In 2026, the Company incurred costs to comply with the European Union's Medical Device Regulations (MDR).
+(5) The Company incurred cash and stock-based compensation costs related to advisory services provided by our former Chief Financial Officer and Chief Executive Officer in 2026 and 2025, respectively.
+(6) In 2026 and 2025, the Company recorded expense related to the fair value adjustments of contingent consideration.
+(7) In 2026, the Company recorded income for the difference between the principal value and purchase price of extinguished debt, and recorded expense for the write-off of deferred financing fees and related professional fees. In 2025, the Company incurred costs related to a loss on early extinguishment and third-party fees associated with the eighth amended and restated senior credit agreement.
+(8) In 2026, the Company recognized income related to the early termination of an agreement granting the Company exclusive distribution rights.
+(9) In 2026, the Company recognized a gain on the sale of certain assets related to gastroenterology products. In 2025, the Company recognized a gain on the sale of a product offering.
+(10) Includes amortization of intangible assets and deferred financing fees.
+(11) In 2025, the Company incurred costs for third party services pertaining to potential issues with certain royalty payments to surgeons involved in design teams.
+Reconciliation of Reported Net Income to EBITDA & Adjusted EBITDA
+(in thousands, unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net income | $ | 19,796 | $ | 2,859 | $ | 56,695 | $ | 30,316
+Provision for income taxes | 6,213 | 1,414 | 19,016 | 11,548
+Interest expense | 11,135 | 7,606 | 26,078 | 23,716
+Depreciation | 3,981 | 4,376 | 12,234 | 13,077
+Amortization | 15,202 | 14,231 | 44,832 | 42,354
+EBITDA | $ | 56,327 | $ | 30,486 | $ | 158,855 | $ | 121,011
+Stock based compensation | 5,911 | 4,585 | 15,925 | 15,869
+Operational optimization costs | 3,229 | 9,245 | 18,207 | 20,718
+EU medical device regulations | 1,857 | - | 4,107 | -
+Contingent consideration fair value adjustments | 605 | 1,341 | 1,215 | 3,504
+Termination of distribution agreement | 162 | - | (1,702) | -
+Gain on sale of product offering | (213) | - | (6,066) | (354)
+Product rationalization costs | - | 19,653 | 6,911 | 19,653
+Loss on sale of product offering | - | - | 4,425 | -
+Executive transition costs | - | - | 3,342 | 12,165
+(Gain) / loss on early extinguishment of debt, net | - | - | (2,825) | 418
+Legal matters | - | 319 | - | 2,548
+Adjusted EBITDA | $ | 67,878 | $ | 65,629 | $ | 202,394 | $ | 195,532
+EBITDA Margin
+EBITDA | 16.8 | % | 9.0 | % | 15.9 | % | 12.1 | %
+Adjusted EBITDA | 20.2 | % | 19.4 | % | 20.3 | % | 19.5 | %
+About CONMED Corporation
+CONMED is a medical technology company that provides devices and equipment for surgical procedures. The Company’s products are used by surgeons and other healthcare professionals in a variety of specialties including orthopedics, general surgery, gynecology, and thoracic surgery. For more information, visit www.conmed.com.
+Forward-Looking Statements
+This press release and associated conference call may contain forward-looking statements based on certain assumptions and contingencies that involve risks and uncertainties, which could cause actual results, performance, or trends to differ materially from those expressed in the forward-looking statements herein or in previous disclosures. For example, in addition to general industry and economic conditions, factors that could cause actual results to differ materially from those in the forward-looking statements may include, but are not limited to the risk factors discussed in the Company's Annual Report on Form 10-K for the full year ended December 31, 2025, listed under the heading Forward-Looking Statements in the Company’s most recently filed Form 10-Q and other risks and uncertainties, which may be detailed from time to time in reports filed by CONMED with the SEC. Any and all forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and relate to the Company’s performance on a going-forward basis. The Company believes that all forward-looking statements made by it have a reasonable basis, but there can be no assurance that management’s expectations, beliefs or projections as expressed in the forward-looking statements will actually occur or prove to be correct.
+Supplemental Information - Reconciliation of GAAP to Non-GAAP Financial Measures
+The Company supplements the reporting of its financial information determined under generally accepted accounting principles in the United States (GAAP) with certain non-GAAP financial measures, including percentage sales growth in constant currency; organic sales growth; organic constant currency sales growth; adjusted gross profit; cost of sales excluding specified items; adjusted selling and administrative expenses; adjusted research and development expense; adjusted operating income; adjusted interest expense; adjusted other (income)/expense; adjusted income tax expense; adjusted effective income tax rate; adjusted net income and adjusted diluted net earnings per share (EPS). The Company believes that these non-GAAP measures provide meaningful information to assist investors and shareholders in understanding its financial results and assessing its prospects for future performance. Management believes percentage sales growth in constant currency and the other adjusted measures described above are important indicators of its operations because they exclude items that may not be indicative of, or are unrelated to, its core operating results and provide a baseline for analyzing trends in the Company’s underlying business. Further, the presentation of EBITDA is a non-GAAP measurement that management considers useful for measuring aspects of the Company’s cash flow. Management uses these non-GAAP financial measures for reviewing the operating results and analyzing potential future business trends in connection with its budget process and bases certain management incentive compensation on these non-GAAP financial measures.
+Net sales on a constant currency basis, organic basis, and organic constant currency basis are non-GAAP measures. The Company analyzes net sales on a constant currency basis, organic basis, and organic constant currency basis to better measure the comparability of results between periods. Organic revenue excludes the sales of GI product offerings and organic constant currency revenue presents sales in constant currency and excludes the sales of GI product offerings. To measure percentage sales growth in constant currency, the Company removes the impact of changes in foreign currency exchange rates that affect the comparability and trend of net sales. To measure earnings performance on a consistent and comparable basis, the Company excludes certain items that affect the comparability of operating results and the trend of earnings. These adjustments are irregular in timing, may not be
+indicative of past and future performance and are therefore excluded to allow investors to better understand underlying operating trends.
+Because non-GAAP financial measures are not standardized, it may not be possible to compare these financial measures with other companies' non-GAAP financial measures having the same or similar names. These adjusted financial measures should not be considered in isolation or as a substitute for reported sales growth, gross profit, cost of sales, selling and administrative expenses, research and development expense, operating income, interest expense, other (income)/expense, income tax expense, effective income tax rate, net income and diluted net earnings per share, the most directly comparable GAAP financial measures. These non-GAAP financial measures are an additional way of viewing aspects of the Company’s operations that, when viewed with GAAP results and the reconciliations to corresponding GAAP financial measures above, provide a more complete understanding of the business. The Company strongly encourages investors and shareholders to review its financial statements and publicly filed reports in their entirety and not to rely on any single financial measure.
+We are unable to present a quantitative reconciliation of our expected diluted net earnings per share to expected adjusted diluted net earnings per share as we are unable to predict with reasonable certainty and without unreasonable effort the impact and timing of acquisition, integration and other charges. The financial impact of these items is uncertain and is dependent on various factors, including timing, and could be material to our consolidated condensed statements of income.
