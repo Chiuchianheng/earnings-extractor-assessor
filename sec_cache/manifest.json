@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T09:25:58+08:00",
+  "fetched_at": "2026-11-05T09:44:52+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,44 +9,44 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 20,
-  "answered": 20,
+  "requests": 21,
+  "answered": 21,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 66 ms"
+      "detail": "HTTP 200, 61 KB in 55 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 37 ms"
+      "detail": "HTTP 200, 60 KB in 25 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 39 ms"
+      "detail": "HTTP 200, 59 KB in 21 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 47 ms"
+      "detail": "HTTP 200, 59 KB in 21 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 36 ms"
+      "detail": "HTTP 200, 60 KB in 25 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 33 ms"
+      "detail": "HTTP 200, 60 KB in 21 ms"
     },
     {
       "name": "Earnings radar, page 7",
@@ -58,87 +58,93 @@
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=700",
       "ok": true,
-      "detail": "HTTP 200, 40 KB in 39 ms"
+      "detail": "HTTP 200, 40 KB in 22 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 85 ms"
+      "detail": "HTTP 200, 148 KB in 127 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 38 ms"
+      "detail": "HTTP 200, 156 KB in 24 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 63 ms"
+      "detail": "HTTP 200, 154 KB in 23 ms"
     },
     {
-      "name": "LEMAITRE VASCULAR INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526447467/index.json",
+      "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 51 ms"
+      "detail": "HTTP 200, 1 KB in 479 ms"
     },
     {
-      "name": "LEMAITRE VASCULAR INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526447467/d171050dex991.htm",
+      "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/0001171843-26-007054-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 218 KB in 58 ms"
+      "detail": "HTTP 200, 10 KB in 32 ms"
     },
     {
-      "name": "Yum China Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526444429/index.json",
+      "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/exh_991.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 60 ms"
+      "detail": "HTTP 200, 370 KB in 91 ms"
     },
     {
-      "name": "Yum China Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526444429/yumc-ex99_1.htm",
+      "name": "ARVINAS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3,518 KB in 96 ms"
+      "detail": "HTTP 200, 7 KB in 185 ms"
+    },
+    {
+      "name": "ARVINAS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/exhibit992-arvinascorpor.htm",
+      "ok": true,
+      "detail": "HTTP 200, 71 KB in 890 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 120 ms"
+      "detail": "HTTP 200, 3,174 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 51 ms"
+      "detail": "HTTP 200, 4,447 KB in 26 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 64 ms"
+      "detail": "HTTP 200, 2,743 KB in 25 ms"
     },
     {
-      "name": "LEMAITRE VASCULAR INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001158895.json",
+      "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000818686.json",
       "ok": true,
-      "detail": "HTTP 200, 3,015 KB in 298 ms"
+      "detail": "HTTP 200, 3,679 KB in 52 ms"
     },
     {
-      "name": "Yum China Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001673358.json",
+      "name": "ARVINAS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001655759.json",
       "ok": true,
-      "detail": "HTTP 200, 2,284 KB in 154 ms"
+      "detail": "HTTP 200, 1,300 KB in 19 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000818686.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001158895.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001673358.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001655759.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -150,9 +156,10 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
-    "www.sec.gov_Archives_edgar_data_1158895_000119312526447467_d171050dex991.htm",
-    "www.sec.gov_Archives_edgar_data_1158895_000119312526447467_index.json",
-    "www.sec.gov_Archives_edgar_data_1673358_000119312526444429_index.json",
-    "www.sec.gov_Archives_edgar_data_1673358_000119312526444429_yumc-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1655759_000162828026069101_exhibit992-arvinascorpor.htm",
+    "www.sec.gov_Archives_edgar_data_1655759_000162828026069101_index.json",
+    "www.sec.gov_Archives_edgar_data_818686_000117184326007054_0001171843-26-007054-index.htm",
+    "www.sec.gov_Archives_edgar_data_818686_000117184326007054_exh_991.htm",
+    "www.sec.gov_Archives_edgar_data_818686_000117184326007054_index.json"
   ]
 }
