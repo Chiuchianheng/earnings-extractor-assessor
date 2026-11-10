@@ -670,5 +670,140 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/cnmdearningsrelease9302026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/0000816956-26-000110-index.htm",
     "saved_at": "2026-11-04T06:08:32+08:00"
+  },
+  {
+    "cik": "891482",
+    "company": "FULL HOUSE RESORTS INC",
+    "accession": "0000891482-26-000048",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 81.8,
+        "unit": "USD millions",
+        "quote": "On a consolidated basis, revenues in the third quarter of 2026 rose 4.9% to $81.8 million"
+      },
+      "operating_income": {
+        "value": 4.42,
+        "unit": "USD millions",
+        "quote": "Operating income | 4,420 | 3,436 | 9,040 | 4,100"
+      },
+      "net_income": {
+        "value": -8.649,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (8,649)"
+      },
+      "diluted_eps": {
+        "value": -0.24,
+        "unit": "USD per share",
+        "quote": "Diluted loss per share | $ | (0.24)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results show continued momentum across the portfolio, led by American Place.",
+        "quote": "Our third quarter results reflect continued momentum across our portfolio, led once again by American Place"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says revenues at Rising Star grew 10.0% from the prior-year quarter, with growth in operating profits.",
+        "quote": "At Rising Star, revenues grew 10.0% from last year’s third quarter, also resulting in growth in operating profits."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says cost work at Silver Slipper improved margins and grew operating profits.",
+        "quote": "Those efforts produced improved margins and meaningful growth in operating profits."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects the temporary American Place facility to keep growing, with the permanent casino due in about two years.",
+        "quote": "We believe our temporary facility will continue to grow in the coming quarters, and we look forward to even greater contributions from our permanent American Place casino, which is expected to open approximately two years from now."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued momentum, strong results at the other properties and further growth, and names no headwind in his own words."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/891482-0000891482-26-000048.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/891482/000089148226000048/fll-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/891482/000089148226000048/0000891482-26-000048-index.htm",
+    "saved_at": "2026-11-11T06:15:01+08:00"
+  },
+  {
+    "cik": "1425292",
+    "company": "CVR PARTNERS, LP",
+    "accession": "0001193125-26-444439",
+    "release_date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 146.152,
+        "unit": "USD millions",
+        "quote": "Net sales (1) | $ | 146,152"
+      },
+      "operating_income": {
+        "value": -3.642,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (3,642"
+      },
+      "net_income": {
+        "value": -10.742,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (10,742"
+      },
+      "diluted_eps": {
+        "value": -1.02,
+        "unit": "USD per share",
+        "quote": "Basic and diluted (loss) earnings per common unit | $ | (1.02"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 the partnership expects an ammonia utilisation rate of 88% to 93%.",
+      "quote": "Ammonia utilization rate | 88 | % | 93 | %"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says third-quarter results were affected by the 41-day planned turnaround at East Dubuque, completed in mid-October.",
+        "quote": "Our results for the third quarter were impacted by the 41-day planned turnaround at our East Dubuque facility, which was completed in mid-October as scheduled."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the ammonia capacity expansion is expected to raise ammonia production capacity by about 5%.",
+        "quote": "the brownfield ammonia capacity expansion that is expected to increase ammonia production capacity by approximately 5%"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CEO calls the quarter solid despite the turnaround downtime and announces a $1.79 distribution per unit.",
+        "quote": "Despite the downtime associated with the turnaround, we had another quarter of solid results, and we are pleased to declare a cash distribution of $1.79 per common unit for the third quarter."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says nitrogen fertiliser supplies remain tight, prices have risen since the summer and customer demand is strong.",
+        "quote": "Prices for nitrogen fertilizers have steadily increased since the summer fill programs, and we continue to see strong demand from our customers."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO names the turnaround's impact on results but calls the quarter solid and describes tight supply, rising prices and strong demand."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1425292-0001193125-26-444439.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1425292/000119312526444439/d162480dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1425292/000119312526444439/0001193125-26-444439-index.htm",
+    "saved_at": "2026-11-11T06:15:01+08:00"
   }
 ]
