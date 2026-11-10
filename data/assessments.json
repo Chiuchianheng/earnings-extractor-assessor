@@ -5920,5 +5920,443 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-04T06:38:06+08:00"
+  },
+  {
+    "accession": "0000891482-26-000048",
+    "cik": "891482",
+    "company": "FULL HOUSE RESORTS INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "confirmed",
+        "reason": "The quote's $81.8 million holds the extract (81.8) and the 10-Q files 81.777 USD millions, 0.028 per cent apart."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "The quote's table row (4,420 thousand) holds the extract (4.42) and the 10-Q files 4.42 USD millions exactly."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "The quote's (8,649) thousand holds the extract (-8.649) and the 10-Q files -8.649 USD millions exactly."
+      },
+      "diluted_eps": {
+        "verdict": "confirmed",
+        "reason": "The quote's (0.24) holds the extract (-0.24) and the 10-Q files -0.24 USD per share, the same to the cent."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four figures are confirmed against the 10-Q filed on 2026-11-05, and every quote is in the release and holds its number."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no numerical guidance, so none was missing."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "Usable as it stands: four confirmed figures and four claims quoted word for word. Two claims are about single properties, which the analyst should read as such."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "81.8 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "81.777 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-05)",
+        "filed_value": 81.777,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-05",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.028 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "operating_income": {
+        "extracted": "4.42 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "4.42 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-05)",
+        "filed_value": 4.42,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-05",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "-8.649 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-8.649 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-05)",
+        "filed_value": -8.649,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-05",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.24 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-0.24 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-05)",
+        "filed_value": -0.24,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-05",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "+0.00 USD per share",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: the same to the cent)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Revenue rose 4.9% on a year ago and 4.8% on the previous quarter; operating income rose 28.6% and 94.7%. The net loss of 8.649 is wider than 7.678 a year ago, which the claim does not mention."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The 10.0% is for one property, Rising Star. The fundamentals are consolidated and the release's tables give no property-level revenue, so neither can test it."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The claim is about Silver Slipper alone. The release gives no property-level figures. Consolidated operating margin rose 1.0 pts to 5.4%, but that cannot test one property."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Outlook, consistent with the latest trend: revenue up 4.9% on a year ago and 4.8% on the quarter, operating income up 28.6%. The release puts American Place revenue up 9.8%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue (+4.9%), operating income (+28.6%) and operating margin (+1.0 pts) all rose on a year ago. The net loss widened from 7.678 to 8.649, which the positive tone leaves out."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 81.777,
+        "this_quarter_from": "10-Q",
+        "year_ago": 77.95,
+        "change_year": 4.9,
+        "previous_quarter": 78.064,
+        "change_quarter": 4.8
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 4.42,
+        "this_quarter_from": "10-Q",
+        "year_ago": 3.436,
+        "change_year": 28.6,
+        "previous_quarter": 2.27,
+        "change_quarter": 94.7
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -8.649,
+        "this_quarter_from": "10-Q",
+        "year_ago": -7.678,
+        "change_year": null,
+        "previous_quarter": -8.694,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.24,
+        "this_quarter_from": "10-Q",
+        "year_ago": -0.21,
+        "change_year": null,
+        "previous_quarter": -0.24,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 5.404942710052948,
+        "this_quarter_from": "10-Q",
+        "year_ago": 4.40795381654907,
+        "change_year": 1.0,
+        "previous_quarter": 2.9078704652592746,
+        "change_quarter": 2.5
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -10.576323416119445,
+        "this_quarter_from": "10-Q",
+        "year_ago": -9.84990378447723,
+        "change_year": -0.7,
+        "previous_quarter": -11.137015781922527,
+        "change_quarter": 0.6
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results show continued momentum across the portfolio, led by American Place.",
+        "quote": "Our third quarter results reflect continued momentum across our portfolio, led once again by American Place",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says revenues at Rising Star grew 10.0% from the prior-year quarter, with growth in operating profits.",
+        "quote": "At Rising Star, revenues grew 10.0% from last year’s third quarter, also resulting in growth in operating profits.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says cost work at Silver Slipper improved margins and grew operating profits.",
+        "quote": "Those efforts produced improved margins and meaningful growth in operating profits.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects the temporary American Place facility to keep growing, with the permanent casino due in about two years.",
+        "quote": "We believe our temporary facility will continue to grow in the coming quarters, and we look forward to even greater contributions from our permanent American Place casino, which is expected to open approximately two years from now.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued momentum, strong results at the other properties and further growth, and names no headwind in his own words."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-11T06:37:46+08:00"
+  },
+  {
+    "accession": "0001193125-26-444439",
+    "cik": "1425292",
+    "company": "CVR PARTNERS, LP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "confirmed",
+        "reason": "The quote's 146,152 thousand holds the extract (146.152) and the 10-Q files 146.152 USD millions exactly."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "The quote's (3,642) thousand holds the extract (-3.642) and the 10-Q files -3.642 USD millions exactly."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "The quote's (10,742) thousand holds the extract (-10.742) and the 10-Q files -10.742 USD millions exactly."
+      },
+      "diluted_eps": {
+        "verdict": "confirmed",
+        "reason": "The quote's (1.02) holds the extract (-1.02) and the 10-Q files -1.02 USD per unit, the same to the cent."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four figures are confirmed against the 10-Q filed on 2026-11-03, and every quote is in the release and holds its number."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures and the Q4 guidance are there. The guidance gives only the 88% to 93% utilisation and leaves out the direct operating expenses ($58m to $63m) and capital spending ($26m to $34m)."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "The figures can be used as they stand. The analyst should note that the tone label and the 'solid results' claim sit badly with a swing to a loss, and add the missing Q4 cost guidance."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "146.152 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "146.152 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-03)",
+        "filed_value": 146.152,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-03",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "operating_income": {
+        "extracted": "-3.642 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-3.642 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-03)",
+        "filed_value": -3.642,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-03",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "-10.742 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-10.742 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-03)",
+        "filed_value": -10.742,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-03",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "-1.02 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-1.02 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-03)",
+        "filed_value": -1.02,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-03",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "+0.00 USD per share",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: the same to the cent)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Operating income fell from 50.636 a year ago to -3.642 and net income from 43.072 to -10.742. The release's tables give turnaround expenses of $26.8 million against $1.2 million and utilisation of 80% against 95%."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The 5% is a future capacity figure. Neither the fundamentals nor the release's tables can test it."
+      },
+      "M3": {
+        "verdict": "does not match",
+        "reason": "Reported: an operating loss of 3.642 against income of 50.636 a year ago, and a net loss of 10.742 against 43.072. Without the $26.8 million turnaround expense, operating income is about 23.2, still well under 50.636."
+      },
+      "M4": {
+        "verdict": "does not match",
+        "reason": "Outlook, against the latest trend: revenue fell 10.6% on a year ago and 27.7% on the quarter. The release's tables show ammonia gate prices up 20% but UAN down 11% to $309 a ton, which the claim leaves out."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "Balanced understates the fall: revenue -10.6% on a year ago, operating margin -33.5 pts to -2.5%, and a net loss of 10.742 against income of 43.072. Even without the turnaround, operating income is about 23.2 against 50.636."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 146.152,
+        "this_quarter_from": "10-Q",
+        "year_ago": 163.549,
+        "change_year": -10.6,
+        "previous_quarter": 202.194,
+        "change_quarter": -27.7
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -3.642,
+        "this_quarter_from": "10-Q",
+        "year_ago": 50.636,
+        "change_year": null,
+        "previous_quarter": 84.816,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -10.742,
+        "this_quarter_from": "10-Q",
+        "year_ago": 43.072,
+        "change_year": null,
+        "previous_quarter": 77.504,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -1.02,
+        "this_quarter_from": "10-Q",
+        "year_ago": 4.08,
+        "change_year": null,
+        "previous_quarter": 7.33,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -2.491926213804806,
+        "this_quarter_from": "10-Q",
+        "year_ago": 30.960751823612497,
+        "change_year": -33.5,
+        "previous_quarter": 41.94783227988961,
+        "change_quarter": -44.4
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -7.349882314302919,
+        "this_quarter_from": "10-Q",
+        "year_ago": 26.335838189166548,
+        "change_year": -33.7,
+        "previous_quarter": 38.33150340761843,
+        "change_quarter": -45.7
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says third-quarter results were affected by the 41-day planned turnaround at East Dubuque, completed in mid-October.",
+        "quote": "Our results for the third quarter were impacted by the 41-day planned turnaround at our East Dubuque facility, which was completed in mid-October as scheduled.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the ammonia capacity expansion is expected to raise ammonia production capacity by about 5%.",
+        "quote": "the brownfield ammonia capacity expansion that is expected to increase ammonia production capacity by approximately 5%",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CEO calls the quarter solid despite the turnaround downtime and announces a $1.79 distribution per unit.",
+        "quote": "Despite the downtime associated with the turnaround, we had another quarter of solid results, and we are pleased to declare a cash distribution of $1.79 per common unit for the third quarter.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says nitrogen fertiliser supplies remain tight, prices have risen since the summer and customer demand is strong.",
+        "quote": "Prices for nitrogen fertilizers have steadily increased since the summer fill programs, and we continue to see strong demand from our customers.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO names the turnaround's impact on results but calls the quarter solid and describes tight supply, rising prices and strong demand."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-11T06:37:46+08:00"
   }
 ]
