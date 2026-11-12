@@ -1,126 +1,120 @@
 {
-  "fetched_at": "2026-11-11T09:27:40+08:00",
+  "fetched_at": "2026-11-12T10:14:07+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-09",
-    "end": "2026-11-10",
+    "end": "2026-11-11",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 17,
-  "answered": 17,
+  "requests": 16,
+  "answered": 16,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 129 ms"
+      "detail": "HTTP 200, 60 KB in 142 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 73 ms"
+      "detail": "HTTP 200, 60 KB in 231 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 85 ms"
+      "detail": "HTTP 200, 60 KB in 290 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 68 ms"
+      "detail": "HTTP 200, 53 KB in 303 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 126 ms"
+      "detail": "HTTP 200, 148 KB in 35 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 82 ms"
+      "detail": "HTTP 200, 156 KB in 16 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 75 ms"
+      "detail": "HTTP 200, 153 KB in 17 ms"
     },
     {
-      "name": "LIGHTPATH TECHNOLOGIES INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/889971/000143774926036165/index.json",
+      "name": "QumulusAI, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2084026/000208402626000009/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 256 ms"
+      "detail": "HTTP 200, 1 KB in 87 ms"
     },
     {
-      "name": "LIGHTPATH TECHNOLOGIES INC filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/889971/000143774926036165/0001437749-26-036165-index.htm",
+      "name": "QumulusAI, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2084026/000208402626000009/qmls-exhibit991xq32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 188 ms"
+      "detail": "HTTP 200, 305 KB in 70 ms"
     },
     {
-      "name": "LIGHTPATH TECHNOLOGIES INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/889971/000143774926036165/ex_1018621.htm",
+      "name": "RESIDEO TECHNOLOGIES, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/index.json",
       "ok": true,
-      "detail": "HTTP 200, 365 KB in 137 ms"
+      "detail": "HTTP 200, 1 KB in 65 ms"
     },
     {
-      "name": "INTELLIGENT BIO SOLUTIONS INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226050982/index.json",
+      "name": "RESIDEO TECHNOLOGIES, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/rezi-20261003prexhibit99.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 77 ms"
-    },
-    {
-      "name": "INTELLIGENT BIO SOLUTIONS INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226050982/ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 72 KB in 107 ms"
+      "detail": "HTTP 200, 728 KB in 79 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 194 ms"
+      "detail": "HTTP 200, 3,174 KB in 52 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 127 ms"
+      "detail": "HTTP 200, 4,447 KB in 47 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 191 ms"
+      "detail": "HTTP 200, 2,745 KB in 49 ms"
     },
     {
-      "name": "LIGHTPATH TECHNOLOGIES INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000889971.json",
+      "name": "QumulusAI, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002084026.json",
       "ok": true,
-      "detail": "HTTP 200, 2,750 KB in 195 ms"
+      "detail": "HTTP 200, 212 KB in 183 ms"
     },
     {
-      "name": "INTELLIGENT BIO SOLUTIONS INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001725430.json",
+      "name": "RESIDEO TECHNOLOGIES, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001740332.json",
       "ok": true,
-      "detail": "HTTP 200, 849 KB in 1353 ms"
+      "detail": "HTTP 200, 1,640 KB in 188 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000889971.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001725430.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001740332.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002084026.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -128,10 +122,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1725430_000149315226050982_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1725430_000149315226050982_index.json",
-    "www.sec.gov_Archives_edgar_data_889971_000143774926036165_0001437749-26-036165-index.htm",
-    "www.sec.gov_Archives_edgar_data_889971_000143774926036165_ex_1018621.htm",
-    "www.sec.gov_Archives_edgar_data_889971_000143774926036165_index.json"
+    "www.sec.gov_Archives_edgar_data_1740332_000174033226000029_index.json",
+    "www.sec.gov_Archives_edgar_data_1740332_000174033226000029_rezi-20261003prexhibit99.htm",
+    "www.sec.gov_Archives_edgar_data_2084026_000208402626000009_index.json",
+    "www.sec.gov_Archives_edgar_data_2084026_000208402626000009_qmls-exhibit991xq32026.htm"
   ]
 }
