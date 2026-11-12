@@ -1,0 +1,264 @@
+Company: QumulusAI, Inc. (CIK 2084026)
+Accession: 0002084026-26-000009
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/2084026/000208402626000009/qmls-exhibit991xq32026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2084026/000208402626000009/0002084026-26-000009-index.htm
+Saved: 2026-11-13T06:08:52+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 qmls-exhibit991xq32026.htm EX-99.1
+Exhibit 99.1
+QumulusAI Reports Third Quarter 2026 Results
+Quarterly revenue reaches $14.8 million, doubling sequentially for the second straight quarter; cumulative signed customer contract value surpasses $500 million.
+ATLANTA, November 10, 2026 — QumulusAI (Nasdaq: QMLS), a neocloud infrastructure provider purpose-built for the AI computing era, today reported financial results for the third quarter ended September 30, 2026.
+“Revenue doubled again this quarter, and remaining performance obligations grew to $515.0 million from $173.1 million at the end of the second quarter. That’s the model doing its job: we sell the capacity before we energize it, we deploy into pockets of existing power, and we bring it online in months, not years,” said Michael Maniscalco, CEO of QumulusAI. “And the third quarter is still early in that ramp. We had compute coming online throughout the quarter, and into the fourth, so much of it hasn’t yet billed for a full period.”
+Third Quarter 2026 Financial Highlights
+All comparisons, unless otherwise noted, are to the three months ended September 30, 2025.
+•Revenue of $14.8 million, an increase of $11.7 million, or 376%, from $3.1 million. Compute power revenue grew to $14.1 million, or approximately 96% of total revenue, from $1.4 million, or approximately 47% of total revenue.
+•Operating loss of $41.6 million, compared to $2.8 million. The increase reflects a $13.4 million increase in depreciation and amortization tied to expanded HPC (High-Performance Computing) infrastructure, as well as higher general and administrative costs associated with public company readiness, including $26.4 million related to shares of common stock issued for professional services in connection with the company's direct listing, and headcount growth.
+•Net loss of $14.4 million, compared to a net loss of $9.5 million. The current period includes $32.3 million of non-cash gains from changes in the fair value of the convertible note, the related option and the warrant liability; the prior-year period included a $4.8 million non-cash loss from the change in fair value of the warrant liability.
+•Adjusted EBITDA of $3.7 million, our first positive quarter, compared to a loss of $0.6 million, driven by growth in compute revenue.
+Recent Corporate Developments
+•Active capacity has reached 8 MW.
+•Cumulative signed customer contract value surpassed $500 million, reaching $528.7 million.
+•Signed $240.9 million in new three-year take-or-pay agreements, covering more than 2,000 NVIDIA Blackwell B300 GPUs across two dedicated clusters.
+•Put the $71.9 million, three-year Blackwell agreement fully into production, with every GPU under the agreement billing within three months of signing.
+•Contracted 1.2 MW in Denver, ready for service in Q1.
+•Contracted 0.5 MW in Columbia, South Carolina, ready for service in December 2026.
+Business Outlook
+QumulusAI will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast.
+Webcast and Conference Call
+QumulusAI will host a conference call and webcast today at 5:00 p.m. Eastern Time to discuss third quarter 2026 results. The live webcast, together with this release and supplemental materials, is available at investors.qumulusai.com. A replay will be available on the same site following the call.
+Non-GAAP Financial Measures
+To supplement its condensed consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (“GAAP”), the company presents Adjusted EBITDA, a non-GAAP financial measure. QumulusAI’s reasons for use of this measure and reconciliation of this non-GAAP financial measure to the most directly comparable GAAP measure and other information are included at the end of this release. Adjusted EBITDA has limitations as an analytical tool and should not be considered in isolation or as a substitute for net income (loss) or any other measure prepared in accordance with GAAP.
+About QumulusAI
+QumulusAI is a distributed AI cloud platform that delivers accelerated access to high-performance GPU compute. Through an inference-first, demand-led deployment model across a network of data center sites, QumulusAI brings compute closer to customer demand, helping AI teams and enterprises scale production AI workloads with speed, flexibility and control. By combining rapid deployment with flexible private cloud infrastructure, QumulusAI gives customers a faster, more adaptable path beyond the capacity constraints of traditional centralized and hyperscale cloud models. Learn more at QumulusAI.com.
+Follow us on LinkedIn and X @QumulusAI.
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding the value and term of the company’s signed customer contracts and the revenue the company expects to realize from them; the company's continued ability to deploy, sell, and bring online capacity on its anticipated timeline, the revenue the company expects to recognize in future periods from compute capacity brought online during and after the third quarter; and the expected timing on which contracted capacity will be ready for service including any related contingencies. Words such as “anticipate,” “believe,” “estimate,” “expect,” “guidance,” “intend,” “can,” “may,” “on track,” “plan,” “project,” “target,” “will” and similar expressions are intended to identify forward-looking statements. These statements are based on management's current expectations and assumptions as of the date of this release and are subject to risks and uncertainties that could cause actual results to differ materially, including, among others, the company's dependence on a limited number of large customers; the availability and cost of power, network connectivity and specialized hardware such as graphics processing units; the company's substantial capital requirements and access to financing; competition and rapid technological change in the high-performance computing and AI markets; the company's limited operating history and history of net losses; and those described in the “Risk Factors” section of the company's registration statement on Form S-1, as amended (File No. 333-292514), filed with the U.S. Securities and Exchange Commission (SEC), and the company’s quarterly report on Form 10-Q for the quarter ended September 30, 2026, as such factors may be updated in the company's subsequent filings with the SEC. QumulusAI undertakes no obligation to update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise, except as required by applicable law.
+Investor Contact
+investors@qumulusai.com
+Media Contact
+media@qumulusai.com
+QUMULUSAI, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+September 30, 2026 | December 31, 2025
+(unaudited)
+ASSETS
+Current assets:
+Cash | $ | 21,909,713 | $ | 11,712,493
+Restricted cash | 9,225,679 | —
+Accounts receivable, net of allowance for credit losses of $321,047 and $2,263 as of September 30, 2026 and December 31, 2025, respectively | 30,647,719 | 57,889
+Deposits on power equipment - current | 2,137,972 | 7,238,383
+Prepaid expenses and other current assets | 4,288,244 | 1,134,851
+Total current assets | 68,209,327 | 20,143,616
+Property and equipment, net | 138,629,171 | 12,502,886
+Operating right-of-use assets, net | 1,345,047 | 1,438,970
+Finance right-of-use assets, net | 133,044,741 | 6,996,077
+Equity method investments | — | 4,227,130
+Investment in equity securities | 1,082,500 | —
+Deposits on power equipment | 4,285,885 | 6,384,258
+Goodwill | 31,416,827 | 31,416,827
+Intangible assets, net | 7,224,902 | 7,268,513
+Other assets | 8,823,952 | 1,356,216
+Total assets | $ | 394,062,352 | $ | 91,734,493
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable | $ | 7,843,065 | $ | 1,248,175
+Dividend payable | 359,188 | 359,188
+Accrued expenses and other current liabilities | 7,299,193 | 2,833,337
+Deferred revenue - current portion | 33,174,971 | —
+Current portion of notes payable | 14,862,667 | 1,684,554
+Current portion of notes payable - related party | 2,000,000 | 3,848,915
+Current portion of USD.AI protocol loans | 12,214,906 | —
+Operating lease liabilities - current portion | 109,557 | 97,463
+Finance lease liabilities - current portion | 39,136,857 | 1,645,069
+Deferred tax liability | 274,554 | 423,381
+Total current liabilities | 117,274,958 | 12,140,082
+Long-term notes payable, net of current portion | 44,245,099 | 6,241,948
+Operating lease liabilities, net of current portion | 1,430,559 | 1,497,549
+Finance lease liabilities, net of current portion | 83,353,330 | 5,179,828
+Warrant liability | 828,232 | 1,382,955
+Deferred revenue, net of current portion | 45,822,451 | —
+Additional convertible notes option liability | 22,183,450 | —
+USD.AI protocol loans, net of current portion | 20,319,360 | —
+Convertible note payable | 32,040,000 | —
+Other non-current liabilities | 1,313,364 | —
+Total long-term liabilities | 251,535,845 | 14,302,280
+Total liabilities | 368,810,803 | 26,442,362
+Shareholders' Equity
+Preferred stock - no par value; 100,000,000 and zero shares authorized as of September 30, 2026 and December 31, 2025, respectively; zero shares issued and outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Common stock - no par value; 1,000,000,000 and 500,000,000 shares authorized as of September 30, 2026 and December 31, 2025, respectively; 34,699,038 and 31,367,559 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 135,611,986 | 93,400,180
+Additional paid-in capital | 11,307,803 | 6,318,290
+Accumulated deficit | (124,247,844) | (37,546,254)
+Total shareholders' equity attributable to QumulusAI shareholders | 22,671,945 | 62,172,216
+Non-controlling interests | 2,579,604 | 3,119,915
+Total shareholders' equity | 25,251,549 | 65,292,131
+Total liabilities and shareholders' equity | $ | 394,062,352 | $ | 91,734,493
+QUMULUSAI, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue
+Revenue from cryptocurrency mining | $ | 262,995 | $ | 211,765 | $ | 1,042,055 | $ | 507,604
+Revenue from mining hosting services | 365,854 | 1,445,669 | 2,008,059 | 4,794,821
+Revenue from compute power | 14,126,265 | 1,443,351 | 21,837,723 | 2,755,051
+Total revenue | 14,755,114 | 3,100,785 | 24,887,837 | 8,057,476
+Costs and expenses
+Cost of revenue (exclusive of depreciation and amortization) | 4,161,145 | 1,643,980 | 8,539,344 | 4,245,448
+General and administrative expenses | 35,671,537 | 2,638,965 | 43,921,812 | 6,081,954
+Sales and marketing expenses | 1,605,602 | 147,471 | 2,758,174 | 238,055
+Depreciation and amortization expense | 14,872,738 | 1,425,735 | 24,421,737 | 3,358,079
+Total costs and expenses | 56,311,022 | 5,856,151 | 79,641,067 | 13,923,536
+Operating loss | (41,555,908) | (2,755,366) | (54,753,230) | (5,866,060)
+Other income (expenses)
+Income from equity method investments | — | 179,617 | 21,994 | 1,043,937
+Gain on sale of equity method investments | 162,785 | — | 12,732,446 | —
+Gain on remeasurement of investment in TCM | — | — | — | 14,549,536
+Change in fair value of warrant liability | 2,140,561 | (4,844,713) | 554,723 | (5,536,816)
+Change in fair value of digital assets | — | 43,935 | — | 81,919
+Change in fair value of convertible note | 13,650,058 | — | 16,030,058 | —
+Change in fair value of additional convertible notes option | 16,537,550 | — | 20,388,400 | —
+Gain on sale or disposal of property and equipment | — | 462 | 36,298 | 462
+Loss on settlement of lease liability | — | (692,837) | — | (692,837)
+Loss on issuance of convertible note | — | — | (73,881,850) | —
+Loss on extinguishment of debt | — | (883,667) | — | (1,037,501)
+Other income (expense), net | 27,704 | (2,183) | (160,046) | 24,771
+Interest expense, net | (5,369,084) | (509,866) | (7,953,108) | (1,450,812)
+Total other income (expenses), net | 27,149,574 | (6,709,252) | (32,231,085) | 6,982,659
+Income (loss) before income tax expense | (14,406,334) | (9,464,618) | (86,984,315) | 1,116,599
+Income tax expense (benefit) | 36,237 | (349) | (148,827) | 284,771
+Net income (loss) | $ | (14,442,571) | $ | (9,464,269) | $ | (86,835,488) | $ | 831,828
+Less: deemed dividend on conversion of preferred stock | — | 89,386,947 | — | 89,386,947
+Less: net income (loss) in non-controlling interests | 16,813 | — | (133,898) | —
+Net loss attributable to common shareholders | $ | (14,459,384) | $ | (98,851,216) | $ | (86,701,590) | $ | (88,555,119)
+Net loss per share attributable to common shareholders, basic and diluted | $ | (0.43) | $ | (5.34) | $ | (2.68) | $ | (5.36)
+Weighted-average common stock outstanding, basic and diluted | 33,516,738 | 18,503,757 | 32,299,039 | 16,512,498
+QUMULUSAI, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)
+Nine Months Ended September 30,
+2026 | 2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income (loss) | $ | (86,835,488) | $ | 831,828
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Depreciation and amortization expense | 10,585,870 | 2,554,911
+Amortization of right-of-use assets | 13,929,789 | 882,733
+Amortization of loan origination costs | 186,740 | 23,513
+Amortization of discount on convertible note | — | 135,334
+Provision for credit losses | 318,784 | —
+Amortization of premium on loan receivable | — | (16,281)
+Non-cash interest expense | — | 6,418
+Recovery of credit losses | — | (36,921)
+Interest expense under finance lease obligations | 5,149,195 | 268,356
+Income from equity method investments | (21,994) | (1,043,937)
+Gain on sale of equity method investments | (12,732,446) | —
+Gain on remeasurement of investment in TCM | — | (14,549,536)
+Change in fair value of warrant liability | (554,723) | 5,536,816
+Change in fair value of digital assets | — | (81,919)
+Change in fair value of convertible note | (16,030,058) | —
+Change in fair value of additional convertible notes option | (20,388,400) | —
+Change in deferred taxes | (148,827) | 284,771
+Stock-based compensation | 4,170,708 | 799,823
+Issuance of common stock for services | 26,412,529 | —
+Issuance of warrants for services | 626,293 | 69,663
+Issuance of warrants as consideration payable to customer | 192,512 | —
+Noncash revenue recognized from receipt of equity securities | (82,500) | —
+Gain on sale or disposal of property and equipment | (36,298) | (462)
+Loss on issuance of convertible note | 73,881,850 | —
+Loss on extinguishment of debt | — | 1,037,501
+Loss on settlement of lease liability | — | 692,837
+Changes in operating assets and liabilities:
+Accounts receivable | (30,908,614) | 8,764
+Due from related party | — | 82,213
+Prepaid expenses and other current assets | (3,198,434) | (207,498)
+Other assets | (1,467,885) | —
+Proceeds from sale of digital assets | 102,746 | 3,045,949
+Mining of digital assets | (102,746) | (2,876,300)
+Accounts payable | 6,594,890 | 508,549
+Accrued expenses | 4,465,856 | 114,685
+Deferred revenue | 78,997,422 | —
+Operating lease liabilities | (54,896) | (43,940)
+Intangible assets | (89,112) | (7,200)
+Due to related party | — | (547,484)
+Other non-current liabilities | 1,313,364 | —
+Net cash provided by (used in) operating activities | 54,276,127 | (2,526,814)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment | (137,021,298) | (1,226,323)
+Proceeds from sale of property and equipment | 478,164 | —
+Proceeds from disposal of property and equipment | — | 4,000
+Proceeds from collections of loans receivable | — | 285,654
+Deposits on power equipment | 5,274,478 | (1,866,454)
+Data center set up costs | (5,999,851) | —
+Purchase of equity securities | (1,000,000) | —
+Proceeds from sale of U.S. dollar coin | — | 391,584
+Proceeds from sale of digital asset reserve | — | 393,460
+Cash acquired as part of business acquisition | — | 2,441,275
+Dividends paid on common stock | — | (36,759)
+Proceeds from sale of equity method investments | 16,722,407 | —
+Distributions from equity method investments | 259,163 | 2,422,000
+Distributions to joint venture partners | (406,413) | —
+Net cash (used in) provided by investing activities | (121,693,350) | 2,808,437
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from sale of common stock, net of issuance costs | 5,980,834 | 21,355,080
+Redemption of preferred stock | — | (293,742)
+Repayments on finance lease obligations | (27,399,088) | (1,289,600)
+Proceeds from convertible note payable | 28,800,000 | —
+Proceeds from notes payable, net of issuance costs | 51,378,460 | —
+Proceeds from notes payable - related party | — | 7,170
+Proceeds from exercise of warrants | 27,501 | 72,659
+Proceeds from exercise of options | — | 112,600
+Proceeds from line of credit, net of issuance costs | 34,996,018 | —
+Repayments of line of credit | (2,570,755) | (299,077)
+Repayments of notes payable | (2,522,960) | (579,999)
+Repayments of notes payable - related party | (1,849,888) | (722,838)
+Repayments of convertible note payable - related party | — | (3,226,548)
+Repayments of convertible notes payable | — | (1,150,000)
+Net cash provided by financing activities | 86,840,122 | 13,985,705
+NET CHANGE IN CASH AND RESTRICTED CASH | 19,422,899 | 14,267,328
+CASH AND RESTRICTED CASH, beginning of period | 11,712,493 | 3,970,466
+CASH AND RESTRICTED CASH, end of period | $ | 31,135,392 | $ | 18,237,794
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid for income taxes | $ | — | $ | —
+Cash paid for interest | $ | 6,714,464 | $ | 907,788
+Non-cash financing and investing activities
+Issuance of warrants for property and equipment | $ | — | $ | 104,854
+Issuance of warrants as offering costs | $ | — | $ | 135,482
+Non-cash contribution to equity method investment | $ | — | $ | 115,210
+Issuance of common stock for settlement of lease liability | $ | — | $ | 1,444,300
+Conversion of preferred stock to common stock | $ | — | $ | 36,896,276
+Issuance of Common Stock and Series D Preferred Stock for the acquisition of TCM | $ | — | $ | 20,250,013
+Exchange of TCM stock options resulting in issuance of stock options in acquisition | $ | — | $ | 1,883,956
+Issuance of preferred stock upon partial conversion of convertible note | $ | — | $ | 1,711,837
+Transfer of leased assets to property and equipment upon lease buyout | $ | — | $ | 1,340,882
+Issuance of common stock for conversion of convertible notes | $ | 9,790,942 | $ | —
+Acquisition of right-of-use asset in exchange for lease obligations | $ | 139,884,530 | $ | 6,528,526
+Lease liabilities arising from obtaining right-of-use assets | $ | 137,915,183 | $ | 6,787,230
+Reconciliation of Net Income (Loss) to Adjusted EBITDA (Unaudited)
+The accompanying press release refers to Adjusted EBITDA, a non-GAAP financial measure not calculated or presented in accordance with GAAP. This non-GAAP financial measure is supplemental information and in addition to the financial measures presented in the accompanying release that are calculated and presented in accordance with GAAP.
+EBITDA is defined as net income (loss) before interest expense, net; income tax expense (benefit); and depreciation and amortization. Adjusted EBITDA is defined as EBITDA further adjusted to exclude stock-based compensation expense, common stock issued for professional services in connection with the direct listing, and gains and losses arising from the issuance, remeasurement, extinguishment or disposition of financial instruments, investments and other assets, and the settlement of lease liabilities. Net income (loss) margin is calculated as net income (loss) divided by revenue, and Adjusted EBITDA margin is calculated as Adjusted EBITDA divided by revenue.
+Management uses Adjusted EBITDA to evaluate operating performance, establish budgets and forecasts and make operational decisions. The company believes the measure is useful to investors because it excludes items that management does not consider indicative of the underlying operating performance of the business, and because it facilitates comparison of results across periods.
+Adjusted EBITDA has limitations as an analytical tool and should not be considered in isolation or as a substitute for net income (loss) or any other measure prepared in accordance with GAAP. Among other limitations, Adjusted EBITDA excludes depreciation and amortization of assets that are central to the company’s ability to generate revenue, and excludes interest expense and amortization associated with the company’s finance lease obligations, under which the company expects to make payments of approximately $13.0 million during the remainder of 2026 and approximately $53.3 million during 2027. Adjusted EBITDA as defined by the company may not be comparable to similarly titled measures reported by other companies.
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net income (loss) | $ | (14,442,571) | $ | (9,464,269) | $ | (86,835,488) | $ | 831,828
+Depreciation and amortization (inclusive of ROU amortization) | 14,872,738 | 1,425,735 | 24,421,737 | 3,358,079
+Interest expense, net | 5,369,084 | 509,866 | 7,953,108 | 1,450,812
+Income tax expense (benefit) | 36,237 | (349) | (148,827) | 284,771
+Stock-based compensation | 3,928,899 | 549,271 | 4,170,708 | 799,823
+Common stock issued for professional services in connection with the direct listing | 26,412,529 | — | 26,412,529 | —
+Change in fair value of warrant liability | (2,140,561) | 4,844,713 | (554,723) | 5,536,816
+Change in fair value of digital assets | — | (43,935) | — | (81,919)
+Change in fair value of convertible note | (13,650,058) | — | (16,030,058) | —
+Change in fair value of additional convertible notes option | (16,537,550) | — | (20,388,400) | —
+Loss on settlement of lease liability | — | 692,837 | — | 692,837
+Gain on sale of equity method investments | (162,785) | — | (12,732,446) | —
+Gain on sale or disposal of property and equipment | — | (462) | (36,298) | (462)
+Loss on issuance of convertible note | — | — | 73,881,850 | —
+Loss on extinguishment of debt | — | 883,667 | — | 1,037,501
+Gain on remeasurement of investment in TCM | — | — | — | (14,549,536)
+Adjusted EBITDA | $ | 3,685,962 | $ | (602,926) | $ | 113,692 | $ | (639,450)
+Revenue | $ | 14,755,114 | $ | 3,100,785 | $ | 24,887,837 | $ | 8,057,476
+Net income (loss) margin | (98) | % | (305) | % | (349) | % | 10 | %
+Adjusted EBITDA margin | 25 | % | (19) | % | — | % | (8) | %
