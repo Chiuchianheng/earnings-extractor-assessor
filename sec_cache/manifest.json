@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T09:46:26+08:00",
+  "fetched_at": "2026-11-13T10:05:50+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,112 +16,112 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 81 ms"
+      "detail": "HTTP 200, 60 KB in 137 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 46 ms"
+      "detail": "HTTP 200, 59 KB in 39 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 56 KB in 46 ms"
+      "detail": "HTTP 200, 56 KB in 34 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 79 ms"
+      "detail": "HTTP 200, 149 KB in 51 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 47 ms"
+      "detail": "HTTP 200, 156 KB in 36 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 49 ms"
+      "detail": "HTTP 200, 154 KB in 18 ms"
     },
     {
-      "name": "FLYEXCLUSIVE INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1843973/000119312526456924/index.json",
+      "name": "Cardinal Infrastructure Group Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2079999/000119312526456793/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 332 ms"
+      "detail": "HTTP 200, 1 KB in 43 ms"
     },
     {
-      "name": "FLYEXCLUSIVE INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1843973/000119312526456924/flyx-ex99_1.htm",
+      "name": "Cardinal Infrastructure Group Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2079999/000119312526456793/cdnl-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 103 ms"
+      "detail": "HTTP 200, 686 KB in 106 ms"
     },
     {
-      "name": "Once Upon a Farm, PBC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1696556/000169655626000032/index.json",
+      "name": "Imunon, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226051202/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 245 ms"
+      "detail": "HTTP 200, 1 KB in 60 ms"
     },
     {
-      "name": "Once Upon a Farm, PBC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1696556/000169655626000032/ofrm-ex99_1.htm",
+      "name": "Imunon, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226051202/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 550 KB in 171 ms"
+      "detail": "HTTP 200, 113 KB in 91 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 67 ms"
+      "detail": "HTTP 200, 3,174 KB in 35 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 79 ms"
+      "detail": "HTTP 200, 4,447 KB in 24 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 71 ms"
+      "detail": "HTTP 200, 2,745 KB in 24 ms"
     },
     {
-      "name": "FLYEXCLUSIVE INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001843973.json",
+      "name": "Cardinal Infrastructure Group Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002079999.json",
       "ok": true,
-      "detail": "HTTP 200, 991 KB in 169 ms"
+      "detail": "HTTP 200, 254 KB in 121 ms"
     },
     {
-      "name": "Once Upon a Farm, PBC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001696556.json",
+      "name": "Imunon, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000749647.json",
       "ok": true,
-      "detail": "HTTP 200, 152 KB in 202 ms"
+      "detail": "HTTP 200, 2,238 KB in 38 ms"
     },
     {
       "name": "QumulusAI, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002084026.json",
       "ok": true,
-      "detail": "HTTP 200, 212 KB in 101 ms"
+      "detail": "HTTP 200, 212 KB in 32 ms"
     },
     {
       "name": "RESIDEO TECHNOLOGIES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001740332.json",
       "ok": true,
-      "detail": "HTTP 200, 1,640 KB in 175 ms"
+      "detail": "HTTP 200, 1,640 KB in 55 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000749647.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001696556.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001740332.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001843973.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002079999.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002084026.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -129,9 +129,9 @@
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_1696556_000169655626000032_index.json",
-    "www.sec.gov_Archives_edgar_data_1696556_000169655626000032_ofrm-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1843973_000119312526456924_flyx-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1843973_000119312526456924_index.json"
+    "www.sec.gov_Archives_edgar_data_2079999_000119312526456793_cdnl-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_2079999_000119312526456793_index.json",
+    "www.sec.gov_Archives_edgar_data_749647_000149315226051202_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_749647_000149315226051202_index.json"
   ]
 }
