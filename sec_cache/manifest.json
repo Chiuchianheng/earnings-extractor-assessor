@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:24:46+08:00",
+  "fetched_at": "2026-11-14T09:42:30+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,118 +16,118 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 376 ms"
+      "detail": "HTTP 200, 60 KB in 296 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 309 ms"
+      "detail": "HTTP 200, 60 KB in 322 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 432 ms"
+      "detail": "HTTP 200, 60 KB in 358 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 436 ms"
+      "detail": "HTTP 200, 55 KB in 324 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 360 ms"
+      "detail": "HTTP 200, 148 KB in 67 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 103 ms"
+      "detail": "HTTP 200, 156 KB in 34 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 115 ms"
+      "detail": "HTTP 200, 154 KB in 36 ms"
     },
     {
-      "name": "Kyverna Therapeutics, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526457040/index.json",
+      "name": "Knightscope, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 252 ms"
+      "detail": "HTTP 200, 1 KB in 59 ms"
     },
     {
-      "name": "Kyverna Therapeutics, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526457040/kytx-ex99_1.htm",
+      "name": "Knightscope, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/kscp-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 202 KB in 138 ms"
+      "detail": "HTTP 200, 17 KB in 92 ms"
     },
     {
-      "name": "Silence Therapeutics plc filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/index.json",
+      "name": "Shimmick Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458344/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 154 ms"
+      "detail": "HTTP 200, 1 KB in 55 ms"
     },
     {
-      "name": "Silence Therapeutics plc press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/d101909dex991.htm",
+      "name": "Shimmick Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458344/shim-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 76 KB in 134 ms"
+      "detail": "HTTP 200, 770 KB in 64 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 463 ms"
+      "detail": "HTTP 200, 3,174 KB in 143 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 471 ms"
+      "detail": "HTTP 200, 4,447 KB in 226 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 179 ms"
+      "detail": "HTTP 200, 2,745 KB in 101 ms"
     },
     {
-      "name": "Kyverna Therapeutics, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001994702.json",
+      "name": "Knightscope, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001600983.json",
       "ok": true,
-      "detail": "HTTP 200, 510 KB in 362 ms"
+      "detail": "HTTP 200, 911 KB in 106 ms"
     },
     {
-      "name": "Silence Therapeutics plc company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001479615.json",
+      "name": "Shimmick Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001887944.json",
       "ok": true,
-      "detail": "HTTP 200, 519 KB in 246 ms"
+      "detail": "HTTP 200, 674 KB in 133 ms"
     },
     {
       "name": "QumulusAI, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002084026.json",
       "ok": true,
-      "detail": "HTTP 200, 212 KB in 299 ms"
+      "detail": "HTTP 200, 212 KB in 187 ms"
     },
     {
       "name": "RESIDEO TECHNOLOGIES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001740332.json",
       "ok": true,
-      "detail": "HTTP 200, 1,640 KB in 639 ms"
+      "detail": "HTTP 200, 1,640 KB in 217 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001479615.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001600983.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001740332.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001994702.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001887944.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002084026.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1479615_000119312526457060_d101909dex991.htm",
-    "www.sec.gov_Archives_edgar_data_1479615_000119312526457060_index.json",
-    "www.sec.gov_Archives_edgar_data_1994702_000119312526457040_index.json",
-    "www.sec.gov_Archives_edgar_data_1994702_000119312526457040_kytx-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1600983_000110465926126228_index.json",
+    "www.sec.gov_Archives_edgar_data_1600983_000110465926126228_kscp-ex99d1.htm",
+    "www.sec.gov_Archives_edgar_data_1887944_000119312526458344_index.json",
+    "www.sec.gov_Archives_edgar_data_1887944_000119312526458344_shim-ex99_1.htm"
   ]
 }
