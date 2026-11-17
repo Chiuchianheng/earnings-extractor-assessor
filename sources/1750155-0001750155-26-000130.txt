@@ -1,0 +1,221 @@
+Company: Charlotte's Web Holdings, Inc. (CIK 1750155)
+Accession: 0001750155-26-000130
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/q32026earningspressrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/0001750155-26-000130-index.htm
+Saved: 2026-11-18T06:07:49+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026earningspressrelease.htm EX-99.1
+Charlotte’s Web Reports Third Quarter 2026 Financial Results
+Operating loss narrows to its lowest level since 2019 despite lower revenue, as costs and margins improve
+Louisville, Colo., November 12, 2026 - (TSX: CWEB, OTCQX: CWBHF), Charlotte’s Web Holdings, Inc. (“Charlotte’s Web” or the “Company”), a botanical wellness innovation company and a market leader in cannabidiol (CBD) hemp extract wellness products, today announced results for the quarter ended September 30, 2026. All amounts are expressed in U.S. dollars unless otherwise indicated.
+“Third-quarter revenue primarily reflected the restrictions on the sale of full-spectrum hemp products in California that took effect in July. We have since reintroduced broad-spectrum products in California and sales have steadily begun to recover there. Nationally, we have sharply reduced deep discounting so that our pricing reflects the premium quality and reliable efficacy customers expect from Charlotte’s Web. That lowered revenue in the near term, but it also improved margins and helped deliver our smallest operating loss since 2019,” said Bill Morachnick, Chief Executive Officer of Charlotte’s Web. “As we work to return to growth, we aim to build the business back on a more profitable footing through our refined customer acquisition and retention strategies. This includes focusing on channels including integrative healthcare and organizations participating in the CMS Innovation Center models.”
+FEDERAL POLICY
+Federal hemp policy continues to evolve legislative approaches to distinguish naturally occurring, non-intoxicating full-spectrum hemp products from synthetic and intoxicating cannabinoid products.
+On September 2, 2026, following House passage, the Continuing Appropriations and Extensions Act, 2027 (Public Law 119-103) was signed into law, delaying enactment of federal hemp restrictions contained in Section 781 of Public Law 119-37 as they apply to non-synthetic hemp products to December 11, 2026. Unless amended, on December 11, 2026 the law will restrict hemp products containing more than 0.4 milligrams of total THC per container. Under current law, the Company’s full-spectrum products would fall within these restrictions while its broad-spectrum and isolate products are expected to remain generally available. There are a number of members of Congress who wish to adjust Section 781 to protect full-spectrum hemp products, either through the process of passing government funding or by one of many bipartisan bills that have been introduced, including the HEMP Act and the Lawful Hemp Protection Act. Charlotte’s Web continues to advocate, directly and through the ONE HEMP coalition, for a framework that distinguishes non-intoxicating full-spectrum products from synthetic and intoxicating products and preserves access for the consumers who have relied on full-spectrum products for years. The Company supports rigorous testing, accurate labeling, traceability, enforcement against bad actors and safeguards for minors, and favors science-based regulation over prohibition. Despite its advocacy, the Company cannot predict whether or when Congress will act.
+HEALTHCARE CHANNEL
+The national healthcare program pilot under the Substance Access Beneficiary Engagement Incentive (“BEI”) allows participating Accountable Care Organizations (“ACOs”) to provide eligible hemp-derived products to Medicare beneficiaries, funding up to $500 per beneficiary per year themselves rather than through Medicare reimbursement. The Company is in negotiations with ACOs regarding a potential pilot expected to begin in 2027. CMS's current product definition accommodates the Company's full-spectrum products, and CMS has stated it will adjust its requirements to follow federal law. No revenue has been recognized from the BEI to date, and the Company does not anticipate meaningful BEI-related revenue in 2026.
+To make it easier for practitioners to recommend and supply its products, Charlotte's Web has launched a dedicated ordering portal for healthcare practitioners and a new affiliate program. Practitioners can now have products shipped directly to their patients or stock them in their clinics, giving patients immediate access.
+The Company has spent several months laying the groundwork to participate in the Medicare Advantage channel, developing healthcare relationships, evaluating benefit pathways, and preparing the infrastructure needed to support potential program implementation, which to date has been restricted by the lack of regulatory clarity. As the regulatory framework for hemp-derived products gains clarity, the Company believes this preparation could position it to pursue opportunities with Medicare Advantage plans and other healthcare partners seeking compliant pathways to provide eligible hemp-derived products to their members.
+COMMERCIAL AND OPERATIONS
+Charlotte’s Web has reintroduced broad-spectrum products in California, where revenue has begun to recover since the July restrictions, regaining approximately 40% of the sales lost following the restrictions, and has simplified its product range, as reflected in the Q3 inventory charges.
+The Company’s Route CBD activation traveled 1,750 miles along the California-Nevada border, meeting and supporting families who had lost normal access to full-spectrum products under the California restrictions. The initiative drew strong consumer response and supportive trade coverage.
+In August, the Company announced a partnership with online marketplace and retailer Edibles.com, which now carries a selection of Charlotte’s Web products online and at its flagship store in Atlanta. The companies are also working together to advocate for federal standards that preserve access to non-intoxicating hemp products.
+Since the end of the third quarter, as December 11 approaches, consumer concern has grown, with increased customer care calls, advocacy letters and inquiries about the Company’s Original Formula products as more families plan ahead. Consumers have sent more than 42,000 letters to Congress asking it to preserve access to full-spectrum hemp products.The Company expects some customers to purchase ahead of December 11, which may shift sales between periods. Some competitors have exited the market, and others may follow, which could affect the Company’s share of a smaller category. The net effect on future sales cannot yet be determined, and the Company does not view near-term purchasing as indicative of ongoing demand.
+DEFLORIA
+DeFloria, Inc., in which Charlotte’s Web owns approximately one-third, is developing AJA001 Oral Solution, an investigational full-spectrum botanical drug candidate. Charlotte’s Web holds exclusive commercial manufacturing rights for AJA001 upon potential FDA approval. Charlotte’s Web carries its investment in DeFloria at fair value, of $8.4 million at September 30, 2026. The Phase 2 program in irritability associated with autism spectrum disorder remains substantially advanced, and its initiation remains subject to securing the resources required to fund it. DeFloria is also evaluating rare pediatric neurological indications for AJA001, each of which would be expected to be eligible for orphan drug designation. A peer-reviewed paper reporting the safety, tolerability and pharmacokinetic results of DeFloria's completed Phase 1 trial of AJA001 has been accepted for publication in The Journal of Clinical Pharmacology.
+THIRD QUARTER FINANCIAL REVIEW
+“This was our first full quarter without the convertible debenture, and the balance sheet is in a very different place than it was at the start of the year,” said Erika Lind, Chief Financial Officer. “Total liabilities are $19.4 million, down from $77.3 million at December 31, 2025, and shareholders’ equity is $53.1 million, compared with a deficit of $2.0 million at year-end. We prioritized margin over volume this year. Gross margin was 47.0% for the first nine months, despite a significant inventory reserve to adjust the product portfolio. Third-quarter SG&A was $8.1 million, 17% lower than a year ago. Part of the SG&A reduction reflects spending we have held back until the federal outcome is clear. With higher margins, more of our revenue recovery should reach the bottom line.”
+The following table sets forth selected financial information for the periods indicated:
+U.S. $ millions, except per share data | Three Months Ended September 30, 2026 | Three Months Ended September 30, 2025
+Revenue | $9.4 | $11.5
+Cost of goods sold | 5.0 | 7.0
+Gross profit | 4.4 | 4.5
+Selling, general, and administrative expenses | 8.1 | 9.7
+Operating loss | (3.7) | (5.3)
+Change in fair value of financial instruments | 0.1 | (1.2)
+Other income (expense), net | 0.2 | 0.6
+Net loss | $(3.5) | $(5.8)
+EPS basic and diluted | $(0.01) | $(0.04)
+Adjusted EBITDA (1) | $(0.7) | $(2.2)
+Cash and cash equivalents | $11.4 | $9.8
+Total assets | $72.4 | $81.6
+Total liabilities | $19.4 | $72.4
+Revenue for the third quarter of 2026 was $9.4 million, down 18.3% from $11.5 million in the third quarter of 2025, and 13.5% from $10.9 million in the second quarter of 2026. The decrease primarily reflects the California hemp restrictions that took effect in July 2026 and the Company’s reduced online
+promotional discounting, a simplified product range and a general softening in demand across the hemp wellness category in certain states. Revenue in California has begun to recover since the Company reintroduced broad-spectrum products there.
+Gross profit was $4.4 million, or 46.9% of revenue, compared with $4.5 million, or 38.9% of revenue, in the third quarter of 2025 and 47.5% in the second quarter of 2026. Year-over-year gross margin improved due to the Company’s revised promotional strategy, improved pricing and mix, lower standard costs from insourcing, and the absence of insourcing start-up costs incurred in the third quarter of 2025. Cost of goods sold also included a $1.4 million addition to the inventory reserve related to simplifying the Company’s product line, largely offset by one-time inventory valuation adjustments. The Company continues to target a gross margin of approximately 50%, although quarterly results may vary with inventory adjustments and the outcome of federal rules.
+SG&A was $8.1 million in the third quarter of 2026, compared with $9.7 million in the third quarter of 2025, a 16.8% decrease reflecting lower more targeted paid media spending and reduced initial debt amortization costs following the debenture conversion in May. SG&A was 14.9% lower than in the second quarter of 2026 as third-quarter spending was held back pending clarity on federal rules.
+Operating loss was $3.7 million, compared with $5.3 million in the third quarter of 2025 and $4.4 million in the second quarter of 2026. Net loss was $3.5 million, or $(0.01) per share, compared with $5.8 million, or $(0.04) per share. The third quarter included a non-cash gain of $0.1 million from the change in fair value of the Company’s investment in DeFloria, compared with a non-cash charge of $1.2 million in the prior year that related primarily to the convertible debenture. Per-share amounts reflect the higher share count following the debenture conversion and private placement in May.
+Adjusted EBITDA1 was a loss of $0.7 million, compared with a loss of $2.2 million in the third quarter of 2025.
+Nine-Month Financial Review
+For the nine months ended September 30, 2026, revenue was $31.4 million, down 14.1% from $36.6 million in the prior-year period. Gross margin improved to 47.0% from 45.7%, and SG&A decreased 13.5% to $27.1 million from $31.4 million. Operating loss improved 15.7% to $12.4 million from $14.7 million. Net loss was $20.7 million, or $(0.10) per share, compared with $18.3 million, or $(0.12) per share, and included a $3.2 million net non-cash fair value charge, mostly related to the debenture before its conversion in May, and a $4.2 million non-cash loss on extinguishment of debt on that conversion.
+Financial Position
+Cash and cash equivalents were $11.4 million at September 30, 2026, compared with $14.0 million at June 30, 2026, and working capital was $23.8 million, compared with $21.7 million at December 31, 2025. The decrease in cash partly reflects a portion of the Company’s annual business insurance premium, which is paid in the third quarter of each year. Net cash used in operating activities was $2.6 million in the third quarter and $6.3 million for the nine months ended September 30, 2026, compared with $12.2 million in the prior-year period.
+Consolidated Financial Statements and Management’s Discussion and Analysis
+The Company’s consolidated financial statements and accompanying notes for the three and nine months ended September 30, 2026 and 2025, and related management’s discussion and analysis of financial condition and results of operations (“MD&A”), are reported in the Company’s 10-Q filing on the
+Securities and Exchange Commission website at www.sec.gov and on SEDAR+ at www.sedarplus.ca and will be available on the Investor Relations section of the Company’s website at https://investors.charlottesweb.com.
+Conference Call
+As announced on November 1, rather than hold a shareholder earnings call on November 12, the Company intends to host a single corporate update call and webcast in December, after December 11, 2026, when the revised federal definition of hemp is scheduled to take full effect under current law. Holding the call after that date is intended to allow management to provide an outlook based on actual plans rather than speculation. The call will review federal hemp policy developments and their implications for the industry and the Company, as well as other corporate developments. Dial-in and webcast details will be provided in a separate notice.
+About Charlotte’s Web Holdings, Inc.
+Charlotte's Web Holdings, Inc., a Certified B Corporation headquartered in Louisville, Colorado, is a botanical wellness innovation company and a market leader in hemp extract wellness that includes Charlotte's Web whole-plant full-spectrum CBD (cannabidiol) extracts as well as broad-spectrum CBD and other naturally occurring cannabinoid isolates, terpenes, flavonoids, and other beneficial compounds. Charlotte's Web product categories include CBD oil tinctures (liquid products), CBD gummies (sleep, calming, exercise recovery, immunity), CBN gummies, functional mushroom gummies, CBD capsules, CBD topical creams, and lotions. Through its substantially vertically integrated business model, Charlotte's Web maintains stringent control over product quality and consistency with analytical testing from soil to shelf for quality assurance. Charlotte's Web products are distributed to retailers and healthcare practitioners throughout the U.S.A. and are available online through the Company's website at www.charlottesweb.com.
+Shares of Charlotte's Web trade on the TSX under the symbol "CWEB" and are quoted in U.S. Dollars in the United States on the OTCQX under the symbol "CWBHF". Subscribe to Charlotte's Web investor news.
+(1)Non-GAAP Measures: The press release contains non-GAAP measures, including EBITDA, and Adjusted EBITDA. Please refer to the section in the tables captioned “Non-GAAP Measures” below for additional information and a reconciliation to GAAP for all non-GAAP metrics.
+Forward-Looking Information
+Certain information provided herein constitutes forward-looking statements or information (collectively, “forward-looking statements”) within the meaning of applicable securities laws. Forward-looking statements are typically identified by words such as “may”, “will”, “should”, “could”, “anticipate”, “expect”, “project”, “estimate”, “forecast”, “plan”, “intend”, “target”, “believe” and similar words suggesting future outcomes or statements regarding an outlook. Forward-looking statements are not guarantees of future performance, and readers are cautioned against placing undue reliance on forward-looking statements. By their nature, these statements involve a variety of assumptions, known and unknown risks and uncertainties, and other factors which may cause actual results, levels of activity, and achievements to differ materially from those expressed or implied by such statements. The forward-looking statements contained in this press release are based on certain assumptions and analysis by management of the Company in light of its experience and perception of historical trends, current conditions, expected future development, and other factors that it believes are appropriate and reasonable.
+Specifically, this press release contains forward-looking statements relating to, but not limited to: the timing, scope and effect of Section 781 of Public Law 119-37 as amended by Public Law 119-103, including the provisions scheduled to take full effect on December 11, 2026, the definitions to be issued by the U.S. Food and Drug Administration, and any further legislative action, including in connection with government funding expiring December 11, 2026, the Lawful Hemp Protection Act, the HEMP Act, and any other federal or state legislative or regulatory framework applicable to hemp-derived products; the effect of those provisions on the Company’s products and revenue; the Company’s ability to maintain product compliance, market access and distribution under evolving federal and state requirements; product eligibility under CMS Innovation Center models, including the ACO REACH, Enhancing Oncology and LEAD models, and the development of the Company’s healthcare channel; the impact of California restrictions and the Company’s broad-spectrum products for California customers; the Company’s product line simplification; the Company’s gross margin target; expected levels of SG&A and investment in growth; California revenue trends; the timing and outcomes of DeFloria’s clinical programs, including Phase 2 initiation and the resources required to fund it, DeFloria’s evaluation of additional indications for AJA001 and their potential eligibility for orphan drug designation, and potential commercial opportunities for Charlotte’s Web.
+The material factors and assumptions used to develop the forward-looking statements herein include, but are not limited to: expectations around cost reduction, run rate, and cash flow improvement; regulatory regime changes; expectations regarding regulatory and legislative updates and timing of same; anticipated product development and sales; the success of sales and marketing activities; product development and production expectations; outcomes from R&D activities; the availability of qualified and cost-effective human resources; compliance with contractual and regulatory obligations and requirements; availability of adequate liquidity and capital to support operations and business plans; continued product placement across channels; anticipated development of new products; anticipated consumer trends and corresponding product innovation; and expectations around consumer product demand. In addition, the forward-looking statements are subject to risks and uncertainties pertaining to, among other things: the full application of Section 781 on December 11, 2026 without further legislative relief, or relief on terms less favorable than anticipated; the content and timing of FDA definitions; the effect of federal THC limits on product eligibility under CMS programs; limited adoption of the incentive by participating healthcare organizations; restrictions affecting manufacturing, distribution or retail availability; changes in regulatory interpretations or enforcement practices; state restrictions, including in California; supply and distribution chains; the market for the Company’s products; revenue fluctuations; regulatory changes; loss of customers and retail partners; retention and availability of talent; competing products; share price volatility; product acceptance; available capital to fund operations and business plans; crop risk; economic and political considerations; and including but not limited to those risks and uncertainties discussed under the heading “Risk Factors” in the Company’s most recently filed Annual Report on Form 10-K, and other risk factors contained in other filings with the Securities and Exchange Commission available on www.sec.gov and filings with Canadian securities regulatory authorities available on www.sedarplus.ca. The impact of any one risk, uncertainty, or factor on a particular forward-looking statement is not determinable with certainty, as these are interdependent, and the Company’s future course of action depends on management’s assessment of all information available at the relevant time. Any forward-looking statement in this press release is based only on information currently available to the Company and speaks only as of the date on which it is made. Except as required by applicable law, the Company assumes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events, or otherwise. All forward-looking statements, whether written or oral, attributable to the Company or persons acting on the Company’s behalf, are expressly qualified in their entirety by these cautionary statements.
+For further information, contact:
+Erika Lind
+Chief Financial Officer
+Erika.Lind@CharlottesWeb.com
+Cory Pala
+Director of Investor Relations
+(720) 484-8930
+Cory.Pala@CharlottesWeb.com
+CHARLOTTE’S WEB HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands of U.S. dollars, except share and per share amounts)
+September 30, | December 31,
+2026 (unaudited) | 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 11,364 | $ | 8,035
+Accounts receivable, net | 1,428 | 811
+Inventories, net | 15,260 | 18,022
+Prepaid expenses and other current assets | 3,324 | 3,491
+Total current assets | 31,376 | 30,359
+Property and equipment, net | 19,565 | 22,679
+Operating lease right-of-use assets, net | 10,696 | 11,297
+Investment in unconsolidated entity | 8,400 | 8,800
+Intangible assets, net | 713 | 785
+Derivative and other long-term assets | 1,686 | 1,353
+Total assets | $ | 72,436 | $ | 75,273
+LIABILITIES AND SHAREHOLDERS’ EQUITY (DEFICIT)
+Current liabilities:
+Accounts payable | $ | 1,601 | $ | 2,186
+Accrued and other current liabilities | 4,638 | 5,053
+Lease obligations – current | 1,303 | 1,420
+Total current liabilities | 7,542 | 8,659
+Convertible debenture | — | 50,849
+Lease obligations | 11,384 | 12,186
+Derivative and other long-term liabilities | 433 | 5,618
+Total liabilities | 19,359 | 77,312
+Commitments and contingencies
+Shareholders’ equity (deficit):
+Common shares, nil par value; unlimited shares authorized; 271,291,529 and 159,420,141 shares issued and outstanding as of September 30, 2026 and December 31, 2025 | 1 | 1
+Additional paid-in capital | 405,083 | 329,270
+Accumulated deficit | (352,007) | (331,310)
+Total shareholders’ equity (deficit) | 53,077 | (2,039)
+Total liabilities and shareholders’ equity (deficit) | $ | 72,436 | $ | 75,273
+CHARLOTTE’S WEB HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands of U.S. dollars, except share and per share amounts)
+Three Months Ended September 30, (unaudited) | Nine Months Ended September 30, (unaudited)
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 9,393 | $ | 11,503 | $ | 31,407 | $ | 36,571
+Cost of goods sold | 4,990 | 7,026 | 16,643 | 19,874
+Gross profit | 4,403 | 4,477 | 14,764 | 16,697
+Selling, general and administrative expenses | 8,097 | 9,731 | 27,140 | 31,371
+Operating loss | (3,694) | (5,254) | (12,376) | (14,674)
+Change in fair value of financial instruments | 100 | (1,200) | (3,211) | (2,869)
+Loss from extinguishment of debt | — | — | (4,216) | —
+Other income (expense), net | 159 | 600 | (839) | (813)
+Loss before provision for income taxes | (3,435) | (5,854) | (20,642) | (18,356)
+Income tax benefit (expense) | (23) | 36 | (55) | 38
+Net loss | $ | (3,458) | $ | (5,818) | $ | (20,697) | $ | (18,318)
+Per common share amounts
+Net loss per common share, basic and diluted | $ | (0.01) | $ | (0.04) | $ | (0.10) | $ | (0.12)
+CHARLOTTE’S WEB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY (DEFICIT)
+(in thousands of U.S. dollars, except share amounts)
+Common Shares | Additional Paid-in Capital | Accumulated Deficit | Total Shareholders’ Equity (Deficit)
+Shares | Amount
+Balance—December 31, 2025 | 159,420,141 | $ | 1 | $ | 329,270 | $ | (331,310) | $ | (2,039)
+Common shares issued upon vesting of restricted share units, net of withholding | 263,812 | — | (41) | — | (41)
+Share-based compensation | — | — | 151 | — | 151
+Net loss | (13,112) | (13,112)
+Balance— March 31, 2026 | 159,683,953 | $ | 1 | $ | 329,380 | $ | (344,422) | $ | (15,041)
+Common shares issued upon vesting of restricted share units, net of withholding | 854,335 | — | (278) | — | (278)
+Exercise of common shares options | 67,601 | — | 22 | — | 22
+Share-based compensation | — | — | 506 | — | 506
+Conversion of convertible debenture into common shares | 95,281,277 | — | 64,982 | — | 64,982
+Issuance of common shares by private investment | 14,662,765 | — | 10,000 | — | 10,000
+Net loss | (4,127) | (4,127)
+Balance—June 30, 2026 | 270,549,931 | $ | 1 | $ | 404,612 | $ | (348,549) | $ | 56,064
+Common shares issued upon vesting of restricted share units, net of withholding | 741,598 | — | (51) | — | (51)
+Share-based compensation | — | — | 522 | — | 522
+Net loss | (3,458) | (3,458)
+Balance—September 30, 2026 | 271,291,529 | $ | 1 | $ | 405,083 | $ | (352,007) | $ | 53,077
+Balance—December 31, 2024 | 158,009,541 | $ | 1 | $ | 328,655 | $ | (301,569) | $ | 27,087
+Common shares issued upon vesting of restricted share units, net of withholding | — | — | — | — | —
+Share-based compensation | — | — | 187 | — | 187
+Net loss | (6,212) | (6,212)
+Balance—March 31, 2025 | 158,009,541 | $ | 1 | $ | 328,842 | $ | (307,781) | $ | 21,062
+Common shares issued upon vesting of restricted share units, net of withholding | 608,226 | — | (25) | — | (25)
+Share-based compensation | — | — | 180 | — | 180
+Net loss | (6,288) | (6,288)
+Balance—June 30, 2025 | 158,617,767 | $ | 1 | $ | 328,997 | $ | (314,069) | $ | 14,929
+Common shares issued upon vesting of restricted share units, net of withholding | 518,687 | — | (9) | — | (9)
+Share-based compensation | — | — | 145 | — | 145
+Net loss | (5,818) | (5,818)
+Balance—September 30, 2025 | 159,136,454 | $ | 1 | $ | 329,133 | $ | (319,887) | $ | 9,247
+CHARLOTTE’S WEB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands of U.S. dollars)
+Nine Months Ended September 30, (unaudited)
+2026 | 2025
+Cash flows from operating activities:
+Net loss | $ | (20,697) | $ | (18,318)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization | 4,242 | 4,650
+Loss on extinguishment of debt | 4,216 | —
+Change in fair value of financial instruments | 3,211 | 2,869
+Inventory provision | 1,365 | 24
+Convertible debenture and other accrued interest | 1,321 | 2,223
+Share-based compensation | 1,179 | 512
+Changes in right-of-use assets | 600 | 1,348
+Other | (95) | (914)
+Changes in operating assets and liabilities:
+Accounts receivable, net | (694) | 191
+Inventories, net | 1,412 | (781)
+Prepaid expenses and other current assets | 114 | (389)
+Accounts payable, accrued and other liabilities | (562) | (1,215)
+Operating lease obligations | (920) | (1,751)
+Other operating assets and liabilities, net | (964) | (695)
+Net cash used in operating activities | (6,272) | (12,246)
+Cash flows from investing activities:
+Purchases of property and equipment and intangible assets | (57) | (650)
+Proceeds from sale of assets | 5 | 122
+Net cash used in investing activities | (52) | (528)
+Cash flows from financing activities:
+Proceeds from issuance of common shares | 10,000 | —
+Other financing activities | (347) | (34)
+Net cash provided by (used in) financing activities | 9,653 | (34)
+Net increase (decrease) in cash and cash equivalents | 3,329 | (12,808)
+Cash and cash equivalents —beginning of period | 8,035 | 22,618
+Cash and cash equivalents —end of period | $ | 11,364 | $ | 9,810
+Supplemental disclosures of non-cash investing and financing activities
+Conversion of debt to equity | 52,942
+Extinguishment of embedded derivatives liability upon debt conversion | 8,062
+Extinguishment of embedded derivatives asset upon debt conversion | 214
+(1) Non-GAAP Measures –EBITDA and Adjusted EBITDA
+Earnings before interest, taxes, depreciation, and amortization (“EBITDA”) is not a recognized performance measure under U.S. GAAP. The term EBITDA consists of net income (loss) and excludes interest, taxes, depreciation, and amortization. Adjusted EBITDA also excludes other non-cash items such as changes in fair value of financial instruments (Mark-to-Market), Share-based compensation, impairment of assets and, for the nine months ended September 30, 2026, the $4.2 million non-cash loss on extinguishment of the convertible debenture. These non-GAAP financial measures should be considered supplemental to, and not a substitute for, our reported financial results prepared in accordance with GAAP. The non-GAAP financial measures do not have a standardized meaning prescribed under U.S. GAAP and therefore may not be comparable to similar measures presented by other issuers. The primary purpose of using non-GAAP financial measures is to provide supplemental information we believe may be useful to investors and to enable them to evaluate our results the same way we do. We also present non-GAAP financial measures because we believe they assist investors in comparing our performance across reporting periods on a consistent basis and comparing our results with those of other companies by excluding items we do not believe are indicative of our core operating performance. Specifically, we use these non-GAAP measures as measures of operating performance; to prepare our annual operating budget; to allocate resources to enhance the financial performance of our business; to evaluate the effectiveness of our business strategies; to provide consistency and comparability with past financial performance; to facilitate a comparison of our results with those of other companies, many of which use similar non-GAAP financial measures to supplement their GAAP results; and in communications with our board of directors concerning our financial performance. Investors should be aware, however, that not all companies define these non-GAAP measures consistently.
+(1)EBITDA and Adjusted EBITDA are non-GAAP financial measures with reconciliations provided in the tables below. Adjusted EBITDA for the three and nine months ended September 30, 2026, and 2025 is as follows:
+Charlotte's Web Holdings, Inc.
+Statement of Adjusted EBITDA
+(In Thousands)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(unaudited) | (unaudited)
+U.S. $ Thousands | 2026 | 2025 | 2026 | 2025
+Net loss | $ | (3,458) | $ | (5,818) | $ | (20,697) | $ | (18,318)
+Depreciation of property and equipment and amortization of intangibles | 1,070 | 1,689 | 4,242 | 4,650
+Interest (income) expense | (115) | 630 | 1,092 | 1,765
+Income tax expense (benefit) | 23 | (36) | 55 | (38)
+EBITDA | $ | (2,480) | $ | (3,535) | $ | (15,308) | $ | (11,941)
+Share-based compensation | 522 | 145 | 1,179 | 512
+Loss on extinguishment of debt | — | — | 4,216 | —
+Mark-to-market financial instruments | (100) | 1,200 | 3,211 | 2,869
+Inventory Provision | 1,365 | 28 | 1,365 | 24
+Adjusted EBITDA | $ | (693) | $ | (2,162) | $ | (5,337) | $ | (8,536)

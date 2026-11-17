@@ -934,5 +934,123 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/rezi-20261003prexhibit99.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/0001740332-26-000029-index.htm",
     "saved_at": "2026-11-13T06:08:52+08:00"
+  },
+  {
+    "cik": "1750155",
+    "company": "Charlotte's Web Holdings, Inc.",
+    "accession": "0001750155-26-000130",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 9.393,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 9,393"
+      },
+      "operating_income": {
+        "value": -3.694,
+        "unit": "USD millions",
+        "quote": "Operating loss | (3,694)"
+      },
+      "net_income": {
+        "value": -3.458,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (3,458)"
+      },
+      "diluted_eps": {
+        "value": -0.01,
+        "unit": "USD per share",
+        "quote": "Net loss per common share, basic and diluted | $ | (0.01)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue mainly reflected the California restrictions on full-spectrum hemp products from July.",
+        "quote": "Third-quarter revenue primarily reflected the restrictions on the sale of full-spectrum hemp products in California that took effect in July."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says less deep discounting lowered revenue but improved margins and gave the smallest operating loss since 2019.",
+        "quote": "That lowered revenue in the near term, but it also improved margins and helped deliver our smallest operating loss since 2019"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CFO says third-quarter SG&A was $8.1 million, 17% lower than a year earlier.",
+        "quote": "Third-quarter SG&A was $8.1 million, 17% lower than a year ago."
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "The CFO says that, with higher margins, more of any revenue recovery should reach the bottom line.",
+        "quote": "With higher margins, more of our revenue recovery should reach the bottom line."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management points to better margins, lower costs and a stronger balance sheet, but says revenue fell because of the California restrictions and talks of working to return to growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1750155-0001750155-26-000130.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/q32026earningspressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/0001750155-26-000130-index.htm",
+    "saved_at": "2026-11-18T06:07:49+08:00"
+  },
+  {
+    "cik": "1843162",
+    "company": "Chicago Atlantic BDC, Inc.",
+    "accession": "0001213900-26-118353",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 8.014269,
+        "unit": "USD millions",
+        "quote": "NET INCREASE (DECREASE) IN NET ASSETS RESULTING FROM OPERATIONS | $ | 8,014,269"
+      },
+      "diluted_eps": {
+        "value": 0.35,
+        "unit": "USD per share",
+        "quote": "NET INCREASE (DECREASE) IN NET ASSETS RESULTING FROM OPERATIONS PER SHARE - BASIC AND DILUTED | $ | 0.35"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says this has been a record year for gross originations, with $167.4 million deployed so far this year.",
+        "quote": "This has been a record year for gross originations thus far: we have deployed $167.4 million year to date"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says $72.0 million went to two new borrowers in the third quarter, making the portfolio the largest in company history.",
+        "quote": "including, $72.0 million to two new borrowers in the third quarter, growing the portfolio to the largest size in company history."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the portfolio has stable risk ratings, no investments on non-accrual and is all senior secured debt yielding 15.5% on average.",
+        "quote": "a strong and resilient portfolio characterized by stable risk ratings, no investments on non-accrual, and a 100% senior secured debt portfolio, generating a weighted average yield of 15.5%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes record originations, the largest portfolio in company history and a strong, resilient portfolio, and mentions no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1843162-0001213900-26-118353.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1843162/000121390026118353/ea031189601ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1843162/000121390026118353/0001213900-26-118353-index.htm",
+    "saved_at": "2026-11-18T06:07:49+08:00"
   }
 ]
