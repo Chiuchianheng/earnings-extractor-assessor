@@ -1,0 +1,19 @@
+Company: ContextLogic Holdings Inc. (CIK 2064307)
+Accession: 0001193125-26-467084
+Results released: 2026-11-18
+Press release: https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/d174564dex991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/0001193125-26-467084-index.htm
+Saved: 2026-11-20T06:07:55+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 d174564dex991.htm EX-99.1
+Exhibit 99.1
+ContextLogic Holdings Inc. Publishes Q&A Following Third Quarter 2026 Results
+OAKLAND, Calif., November 18, 2026 (GLOBE NEWSWIRE) — ContextLogic Holdings Inc. (OTCQB: LOGC) (“ContextLogic,” the “Company,” “we” or “our”) today published a Q&A document to its website following the release of its third quarter 2026 financial results.
+In connection with its third quarter 2026 earnings release, the Company invited shareholders and other interested parties to submit written questions to its investor relations inbox. The Company received a thoughtful range of questions and has endeavored to respond to as many as possible. In a small number of cases, the Company has elected not to respond to certain questions, including those that are competitively sensitive, premature to address, or otherwise inappropriate for public disclosure. Where multiple shareholders raised similar questions, those questions have been consolidated into a single response for clarity and concision. Any relevant questions from prior quarters have been updated and included.
+The Q&A document is available on the Company’s website at www.contextlogic.com.
+About ContextLogic Holdings Inc.
+ContextLogic Holdings Inc. is a publicly traded business ownership platform established to own a collection of niche, competitively advantaged, long-duration businesses. Each business operates with meaningful autonomy under world-class management teams whose incentives are tightly aligned with those of their shareholders, supported by a governance structure that creates direct accountability between operators and owners. For more information about ContextLogic, please visit www.contextlogic.com.
+Contacts
+Investor Relations:
+ir@contextlogic.com

@@ -1184,5 +1184,83 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1484769/000149315226052703/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1484769/000149315226052703/0001493152-26-052703-index.htm",
     "saved_at": "2026-11-19T06:08:04+08:00"
+  },
+  {
+    "cik": "2002988",
+    "company": "Retension Pharmaceuticals, Inc.",
+    "accession": "0001104659-26-129354",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -6.007361,
+        "unit": "USD millions",
+        "quote": "Loss from Operations | (6,007,361)"
+      },
+      "net_income": {
+        "value": -5.918084,
+        "unit": "USD millions",
+        "quote": "Net Loss | $ | (5,918,084)"
+      },
+      "diluted_eps": {
+        "value": -7.33,
+        "unit": "USD per share",
+        "quote": "Net loss per share – Basic and diluted | $ | (7.33)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the IPO provides the capital to complete the Phase 2b trial of RTN-001 and prepare for Phase 3.",
+        "quote": "Completing our initial public offering was an important step for Retension, and it provides the capital to complete our Phase 2b clinical trial of RTN-001 and prepare for Phase 3"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects initial Phase 2b data in the first half of 2027.",
+        "quote": "We remain focused on executing the Phase 2b trial, with initial data expected in the first half of 2027"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The company says research and development expenses rose mainly because of Phase 2b trial costs.",
+        "quote": "Research and development expenses were $5.0 million for the third quarter of 2026, compared to $1.4 million for the third quarter of 2025. The increase was primarily due to Phase 2b clinical trial costs."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the IPO an important step and stresses the funded Phase 2b trial, naming no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2002988-0001104659-26-129354.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/rtsn-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/0001104659-26-129354-index.htm",
+    "saved_at": "2026-11-20T06:07:55+08:00"
+  },
+  {
+    "cik": "2064307",
+    "company": "ContextLogic Holdings Inc.",
+    "accession": "0001193125-26-467084",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/2064307-0001193125-26-467084.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/d174564dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/0001193125-26-467084-index.htm",
+    "saved_at": "2026-11-20T06:07:55+08:00"
   }
 ]
