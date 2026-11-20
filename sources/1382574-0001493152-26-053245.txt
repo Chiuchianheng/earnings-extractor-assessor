@@ -1,0 +1,166 @@
+Company: Scienture Holdings, Inc. (CIK 1382574)
+Accession: 0001493152-26-053245
+Results released: 2026-11-19
+Press release: https://www.sec.gov/Archives/edgar/data/1382574/000149315226053245/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1382574/000149315226053245/0001493152-26-053245-index.htm
+Saved: 2026-11-21T06:08:00+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+SCIENTURE Reports Q3 2026 Results with Approximately 265% Sequential Revenue Growth Driven by the Commercial Launch of REZENOPY™
+Q3 2026 Revenue Increased Approximately 113% Year-Over-Year to $1.25 Million
+Arbli™ generated approximately $330,000 and $730,000 of Net Product Revenue for Q3 2026 and the first nine months of 2026 respectively
+Initial Wholesale Shipments of REZENOPY™ Generated Approximately $925,000 of Net Product Revenue Following Its August 2026 Launch
+Q3 2026 Gross Profit Increased Approximately 77.5% Year-Over-Year to $1.02 Million
+First Nine Months of 2026 Revenue Increased Approximately 176% Year-Over-Year to $1.65 Million and Gross Profit Increased Approximately 145% to $1.41 Million
+COMMACK, NY, Nov. 16, 2026 (GLOBE NEWSWIRE) — SCIENTURE HOLDINGS, INC. (NASDAQ: SCNX) (“Scienture” or the “Company”), a holding company for existing and planned pharmaceutical operating companies focused on providing enhanced value to patients, physicians and caregivers through the development, commercialization, and distribution of novel specialty products that address unmet market needs, today provided a business update and reported financial results for the three and nine months ended September 30, 2026.
+Third Quarter 2026 and Nine Months Ended September 30, 2026 Financial Highlights
+● | Robust Commercial Execution: Scienture focused on product promotion, branding, market access, payor coverage expansion and multichannel sales coverage for both Arbli™ and REZENOPY™, which management believes contributed to meaningful sequential revenue growth and expects will serve as a platform for continued revenue and margin expansion in the coming quarters.
+● | Significant Sequential Revenue Growth: Revenue increased approximately 265% to $1.25 million in Q3 2026, compared with $343,639 in Q2 2026, exceeding the Company’s preliminary estimate of approximately $1.22 million announced on October 13, 2026.
+● | Strong Year-Over-Year Revenue Growth: Q3 2026 revenue increased approximately 113% compared with $590,050 in Q3 2025. Third quarter 2026 revenue consisted entirely of net product sales of the Company’s two FDA-approved products, Arbli™ and REZENOPY™.
+● | Nine-Month Revenue Growth: Revenue for the first nine months of 2026 increased approximately 176% to $1.65 million, compared with $600,308 in the corresponding period of 2025, primarily due to the revenue derived from net product sales of Arbli™ and REZENOPY™.
+● | Q3 2026 Gross Profit: Q3 2026 gross profit increased approximately 77.5% to $1.02 million compared with $574,621 in Q3 2025. Gross margin was approximately 81.3%, reflecting the addition of REZENOPY™ to the Company’s revenue mix.
+● | Nine-Month Gross Profit: Gross profit increased approximately 145% year-over-year to $1.41 million, compared to $575,294 in the prior-year period, representing a gross margin of 85.2%, primarily due to sales of Arbli™ and REZENOPY™.
+● | Operating Loss: Operating loss for the first nine months of 2026 narrowed approximately 8.8% to $11.9 million, compared with $13.1 million in the corresponding period of 2025. Q3 2026 operating loss was approximately $5.7 million, compared with approximately $4.4 million in Q3 2025, and included approximately $0.8 million of FDA fees and an approximately $0.8 million licensing milestone for REZENOPY™, as well as increased research and development investment to advance the Company’s product pipeline.
+● | Net Loss: Net loss for the first nine months of 2026 narrowed approximately 8.6% to $12.2 million, compared with $13.4 million in the prior-year period, and net loss per common share improved to $7.70 from $23.46 during that same period. Q3 2026 net loss was approximately $6.0 million, compared with approximately $3.6 million in Q3 2025. The prior-year quarter benefited from a non-cash gain of approximately $2.4 million related to the change in fair value of a derivative liability. Q3 2026 net loss per common share improved to $3.76 from $4.76 in the prior-year quarter. Per share amounts reflect the 1-for-25 reverse stock split effective October 5, 2026.
+● | Cash Position: As of September 30, 2026, the Company had cash, cash equivalents and restricted cash of approximately $7.8 million compared to approximately $6.7 million of cash and cash equivalents as of December 31, 2025.
+Key Operational Highlights in Q3 2026 and Subsequent Events:
+● | REZENOPY™ Commercial Launch: REZENOPY™ (naloxone hydrochloride) Nasal Spray 10 mg, the highest-dose FDA-approved naloxone nasal spray available in the United States, became commercially available in August 2026, establishing Scienture’s second commercial-stage pharmaceutical product. Initial wholesale shipments generated approximately $925,000 of net product revenue during the third quarter of 2026 and were the primary driver of the Company’s sequential revenue growth.
+● | REZENOPY™ Direct Customer Distribution Agreement: In September 2026, Scienture entered into an exclusive Sales, Marketing and Distribution Agreement targeting opioid treatment program clinics and addiction treatment centers across the United States. The agreement provides access to an established network of approximately 2,000 treatment facilities, expanding REZENOPY™’s potential commercial reach beyond traditional wholesale distribution channels.
+● | Continued Arbli™ Commercial Expansion: Scienture continued advancing the commercialization of Arbli™ (losartan oral suspension), the first FDA-approved liquid formulation of losartan, securing formulary placements at more than ten (10) leading U.S. pediatric hospitals and academic medical centers boosting institutional access for the product. The Company’s management believes that product adoption in the Retail and Long-Term Care segments will continue to grow based on the expanding CMS and Commercial coverage the Company has obtained for the product. Arbli™ wholesale unit sales increased 74% sequentially in the third quarter of 2026.
+● | First REZENOPY™ Direct Customer Orders Fulfilled: Subsequent to the third quarter, Scienture fulfilled and shipped its first orders of REZENOPY™ through the direct customer channel, marking an important milestone in translating its expanded distribution infrastructure into commercial activity beyond its initial wholesale shipments.
+Outlook for rest of 2026 and 2027 and Operational Milestones:
+● | Breakeven Operating Income and Profitability: Based on the current sales run rate and the growth in net product revenue that the Company’s management expects in the upcoming quarters, the Company’s management believes the business is well poised to achieve the breakeven Operating Income of $6M and be profitable in 2027.
+● | Strong and continued focus on Commercial Execution: The Company is prioritizing key commercial activities to continue to ramp our sales growth on Arbli™ and REZENOPY™ for the rest of 2026 and 2027. In this regard, the Company anticipates it will:
+○ | Maintain and build on our commercial infrastructure covering Field and Virtual Promotion, Marketing, Market Access, Payor Coverage and Patient Assistance Programs.
+○ | Leverage our recent wins in the specialty segments of Pediatrics, Cardiology, Nephrology and Long-Term Care settings to increase product adoption.
+○ | Continue to expand multi-channel sales across Retail, Institutional and Government customers through our Wholesale, GPO and Direct purchase programs.
+○ | Enhance CMS (Government) coverage for both products and achieve formulary access into State Medicaid Preferred Drug Lists and purchase contracts with federal and state agencies.
+○ | Bolster our current commercial coverage available through National Health plans with regional provider agreements.
+○ | Continue to strengthen our Patient Assistance and Savings Support program and work with all healthcare providers (prescribers and pharmacists) to assist with product availability and utilization.
+Narasimhan Mani, President, Interim Chief Financial Officer and Co-Chief Executive Officer of Scienture, commented, “Our third-quarter results demonstrate the accelerating commercial momentum of Scienture as we begin generating meaningful revenue from two FDA-approved pharmaceutical products. Revenue increased approximately 265% sequentially to $1.25 million and more than doubled year-over-year. This growth reflects approximately $925,000 of net revenue from initial wholesale shipments of REZENOPY™ following its August launch, alongside continued progress with Arbli™. We also generated more than $1.0 million in quarterly gross profit, reflecting what we see as attractive margins of our expanding commercial portfolio. With much of the commercial infrastructure for both products already established, we are optimistic of revenue and margin expansion in the coming quarters. We remain focused on expanding market access, strengthening distribution and accelerating product adoption to drive sustainable revenue growth and achieve our objective of profitability in 2027.”
+Shankar Hariharan, Executive Chairman and Co-Chief Executive Officer of Scienture, stated, “Arbli™ continues to gain commercial traction, while the successful launch of REZENOPY™ has added a second revenue stream and established our presence in the opioid overdose treatment market. We are particularly encouraged by the progress of REZENOPY™ beyond traditional wholesale distribution, including the fulfillment of our first orders through a dedicated direct customer channel that provides access to approximately 2,000 opioid treatment clinics and addiction treatment centers nationwide. Building on this momentum, we are actively pursuing additional distribution relationships, particularly within government markets, where we see opportunities to expand product access, diversify revenue streams and establish a scalable commercial platform to support long-term growth.”
+About Arbli™
+Arbli™ is a novel proprietary formulation of losartan, a widely prescribed angiotensin receptor blocker (ARB) for hypertension. It is the first and only liquid formulation of losartan on the market that does not require compounding and has reduced dosing volume and long-term shelf life at room temperature storage. Arbli™ is FDA-approved for the treatment of hypertension in patients greater than six years old, for reducing the risk of stroke in patients with hypertension and left ventricular hypertrophy, and for treating diabetic nephropathy in certain patients with type 2 diabetes. By offering a safe, effective, and convenient liquid alternative, Arbli™ provides a tailored solution for patients who require or prefer a liquid formulation. As an FDA-approved product, Arbli™ provides consistent quality and dosing accuracy, addressing the risks and inconsistencies often associated with extemporaneously compounded losartan prescriptions. Arbli™ has three issued patents from the USPTO, which are also listed in the FDA Orangebook.
+Arbli™ is the first and only oral liquid formulation of losartan approved by the U.S. FDA. Arbli™ comes in a 165 mL bottle as a peppermint flavored suspension that does not require refrigeration and has been approved for a shelf life of 24 months from the date of manufacture when stored at room temperature.
+INDICATION
+Arbli™ is an angiotensin II receptor blocker (ARB) indicated for:
+● | Treatment of hypertension, to lower blood pressure in adults and children greater than 6 years old. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
+● | Reduction of the risk of stroke in patients with hypertension and left ventricular hypertrophy.
+● | Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria in patients with type 2 diabetes and a history of hypertension.
+IMPORTANT SAFETY INFORMATION
+● | Do not take Arbli™ when pregnant. When pregnancy is detected, discontinue Arbli™ as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. Arbli™ can cause fetal harm when administered to a pregnant woman. Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+● | Do not co-administer Arbli™ with aliskiren in patients with diabetes. Avoid use of aliskiren with Arbli™ in patients with renal impairment (GFR <60 mL/min).
+● | Do not administer Arbli™ in patients with severe hepatic impairment. Arbli™ has not been studied in patients with severe hepatic impairment.
+● | The most common adverse reactions are (incidence ≥2% and greater than placebo): dizziness, upper respiratory infection, nasal congestion, and back pain.
+You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1-800-FDA-1088. You may also contact Scienture at 1-833-754-4917.
+Please see the full Prescribing Information for complete product information. For more information, talk to your healthcare provider.
+About Hypertension
+Hypertension (high blood pressure) is a cardiovascular condition, when the pressure in the blood vessels is too high (140/90 mmHg or higher). According to the CDC, hypertension, or high blood pressure, affects nearly half of adults in the United States, or approximately 119.9 million people. Hypertension is defined as a systolic blood pressure of 140 mmHg or higher, and diastolic blood pressure of 90 mmHg or higher. Hypertension is a risk factor for stroke and heart disease, which are leading causes of death in the U.S. Factors that increase the risk of having high blood pressure include: older age, genetics, being overweight or obese, not being physically active, high-salt diet and drinking too much alcohol. Hypertension is clinically diagnosed if, when blood pressure is measured on two different days, the systolic blood pressure readings on both days is ≥140 mmHg and/or the diastolic blood pressure readings on both days is ≥ 90 mmHg.
+About REZENOPY™
+REZENOPY™ (naloxone hydrochloride) Nasal Spray 10mg, is an opioid antagonist indicated for the emergency treatment of known or suspected opioid overdose, as manifested by respiratory and/or central nervous system depression in adult and pediatric patients. It is intended for immediate administration as emergency therapy in settings where opioids may be present.
+REZENOPY™ nasal spray is for intranasal use only and is supplied as a carton containing two (2) blister packages each with a single spray device.
+IMPORTANT SAFETY INFORMATION
+REZENOPY™ (naloxone hydrochloride) Nasal Spray 10 mg is an opioid antagonist indicated for the emergency treatment of known or suspected opioid overdose, as manifested by respiratory and/or central nervous system depression in adult and pediatric patients. It is intended for immediate administration as emergency therapy in settings where opioids may be present and is not a substitute for emergency medical care.
+Important Safety Information
+● | Contraindications: REZENOPY™ nasal spray is contraindicated in patients known to be hypersensitive to naloxone hydrochloride or to any of the other ingredients.
+● | Warnings and Precautions:
+● | Risk of Recurrent Respiratory and CNS Depression: Due to the duration of action of naloxone relative to the opioid, keep the patient under continued surveillance and administer additional doses as necessary while awaiting emergency medical assistance.
+● | Risk of Limited Efficacy with Partial Agonists or Mixed Agonists/Antagonists: Reversal of respiratory depression caused by partial agonists or mixed agonists/antagonists, such as buprenorphine and pentazocine, may be incomplete. Larger or repeat doses may be required.
+● | Precipitation of Severe Opioid Withdrawal: Use in patients who are opioid-dependent may precipitate opioid withdrawal. In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated. Monitor for the development of opioid withdrawal.
+● | Risk of Cardiovascular Effects: Abrupt postoperative reversal of opioid depression may result in adverse cardiovascular effects. These events have primarily occurred in patients who had pre-existing cardiovascular disorders or received other drugs that may have similar adverse cardiovascular effects. Monitor these patients closely in an appropriate healthcare setting after use of naloxone hydrochloride.
+● | Adverse Reactions: The following adverse reactions were observed in a REZENOPY™ nasal spray clinical study: upper abdominal pain, nasopharyngitis, and dysgeusia.
+For complete product information, including Patient Information, please refer to the full Prescribing Information.
+About Scienture Holdings, Inc.
+SCIENTURE HOLDINGS, INC. (NASDAQ: SCNX), through its wholly owned subsidiary, Scienture, LLC, is a comprehensive pharmaceutical product company focused on providing enhanced value to patients, physicians and caregivers by offering novel specialty products to satisfy unmet market needs. Scienture, LLC is a branded, specialty pharmaceutical company consisting of a highly experienced team of industry professionals who are passionate about developing and bringing to market unique specialty products that provide enhanced value to patients and healthcare systems. The assets in development at Scienture are across therapeutics areas, indications and cater to different market segments and channels. For more information please visit: www.scientureholdings.com and www.scienture.com.
+Cautionary Statements Regarding Forward-Looking Statements
+This press release contains certain statements that may be deemed to be “forward-looking statements” within the federal securities laws, including the safe harbor provisions under the Private Securities Litigation Reform Act of 1995. Statements that are not historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements relate to future events or our future performance or future financial condition. These forward-looking statements are not historical facts, but rather are based on current expectations, estimates and projections about our company, our industry, our beliefs and our assumptions. Such forward-looking statements include, but are not limited to, statements regarding our or our management team’s expectations, hopes, beliefs, intentions or strategies regarding the future, including for the products we have launched or may launch, the success those products may have in the marketplace, such as Arbli™ and REZENOPY™, our commercial, distribution and market access strategies related to those products, our expectations regarding future revenue, gross margin, and profitability, and our future financial condition and results of operations. In addition, any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. In some cases, you can identify forward-looking statements by the following words: “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” or the negative of these terms or other similar expressions, but the absence of these words does not mean that a statement is not forward-looking. Forward-looking statements are subject to a number of risks and uncertainties (some of which are beyond our control) that may cause actual results or performance to be materially different from those expressed or implied by such forward-looking statements. Accordingly, readers should not place undue reliance on any forward-looking statements. These risks include risks relating to agreements with third parties, including our reliance on third-party licensors, manufacturers and distributors; our dependence on a limited number of wholesale distributors for substantially all of our product sales; variability in quarterly revenue resulting from wholesaler ordering patterns and gross-to-net adjustments; the market adoption of, and the availability of payor coverage and formulary access for, Arbli™ and REZENOPY™; our ability to enter into, and realize the anticipated benefits of, distribution agreements and other commercial arrangements; our ability to achieve profitability; our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; security interests under certain of our credit arrangements; our ability to maintain the listing of our common stock on The Nasdaq Stock Market LLC; claims relating to alleged violations of intellectual property rights of others; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; and those risks detailed in our most recent Annual Report on Form 10-K, as amended, and subsequent reports filed with the Securities and Exchange Commission.
+Forward-looking statements speak only as of the date they are made. Scienture Holdings, Inc. undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise that occur after that date, except as otherwise provided by law.
+Contact:
+SCIENTURE HOLDINGS, INC.
+20 Austin Blvd
+Commack, NY 11725
+Email: IR@Scienture.com
+Scienture Holdings, Inc. formerly TRxADE HEALTH, INC.
+Condensed Consolidated Balance Sheets
+As of September 30, 2026 and December 31, 2025
+(Unaudited)
+September 30, | December 31,
+2026 | 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 4,747,439 | $ | 6,662,008
+Accounts receivable, net | 2,220,101 | 731,328
+Inventory | 998,109 | 213,408
+Prepaid expenses | 382,187 | 262,278
+Subscription receivable | 484,995 | -
+Deferred offering costs | - | 47,384
+Total current assets | 8,832,831 | 7,916,406
+Restricted cash | 3,030,085 | -
+Property, plant and equipment, net | 14,500 | 15,500
+Notes receivable | 5,000,000 | 5,000,000
+Interest receivable | 531,250 | 250,000
+Intangible assets, net | 69,611,525 | 70,973,064
+Operating lease right-of-use assets | 164,115 | 23,360
+Total assets | $ | 87,184,306 | $ | 84,178,330
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable | $ | 4,142,469 | $ | 1,443,266
+Accrued liabilities | 1,938,526 | 657,034
+Operating lease liability - current | 21,508 | 24,137
+Warrant liability | 46,124 | 10,914
+Note payable, net of debt discount - current portion | 1,626,602 | -
+Development agreement liability - current portion | 285,000 | 600,000
+Total current liabilities | 8,060,229 | 2,735,351
+Note payable, net of debt discount | 9,199,675 | -
+Lease Liability | 143,223 | -
+Development agreement liability | - | 285,000
+Deferred tax liability | 11,037,595 | 11,037,595
+Total liabilities | 28,440,722 | 14,057,946
+Commitments and contingencies (Note 13)
+Stockholders’ equity:
+Series A preferred stock, $0.00001 par value; 0 and 9,211,246 shares authorized; 0 shares issued and outstanding as of both September 30, 2026 and December 31, 2025 | - | -
+Series B preferred stock, $0.00001 par value; 787,754 shares authorized; 15,759 shares issued and outstanding as of both September 30, 2026 and December 31, 2025 | - | -
+Series C preferred stock, $0.00001 par value; 1,000 shares authorized; 0 shares issued and outstanding as of both September 30, 2026 and December 31, 2025 | - | -
+Series X preferred stock, $0.00001 par value; 9,211,246 shares authorized; 0 shares issued and outstanding as of both September 30, 2026 and December 31, 2025 | - | -
+Common stock, $0.00001 par value; 100,000,000 shares authorized; 1,787,953 and 1,625,232 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively 75,262 and 40,600 shares unvested as of September 30, 2026 and December 31, 2025, respectively | 17 | 16
+Additional paid-in capital | 151,528,886 | 150,671,605
+Accumulated deficit | (92,785,319 | ) | (80,551,237 | )
+Total stockholders’ equity | 58,743,584 | 70,120,384
+Total liabilities and stockholders’ equity | $ | 87,184,306 | $ | 84,178,330
+Scienture Holdings, Inc. formerly TRxADE HEALTH, INC.
+Condensed Consolidated Statements Of Operations
+For the Three and Nine Months Ended September 30, 2026 and 2025
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Revenues | $ | 1,254,577 | $ | 590,050 | $ | 1,654,541 | $ | 600,308
+Cost of sales | 234,628 | 15,429 | 244,963 | 25,014
+Gross profit | 1,019,949 | 574,621 | 1,409,578 | 575,294
+Operating expenses:
+Wage and salary expense | 422,234 | 251,747 | 1,253,653 | 1,721,554
+Professional fees | 1,831,332 | 1,320,845 | 3,727,636 | 1,943,458
+Accounting and legal expense | 167,742 | 1,018,737 | 611,735 | 1,871,245
+Technology expense | 3,900 | 9,756 | 26,802 | 92,784
+General and administrative | 2,930,405 | 2,165,398 | 4,374,059 | 6,449,110
+Research and development | 1,387,842 | 169,344 | 3,348,431 | 1,587,572
+Total operating expenses | 6,743,455 | 4,935,827 | 13,342,316 | 13,665,723
+Operating loss | (5,723,506 | ) | (4,361,206 | ) | (11,932,738 | ) | (13,090,429 | )
+Non-operating income (expense):
+Change in fair value of warrant liability | (46,124 | ) | 59,203 | (35,214 | ) | 781,311
+Change in fair value of derivative liability | - | 2,356,428 | - | 2,296,834
+Gain (loss) on conversion of note payable | - | 43,200 | - | (53,446 | )
+Gain (loss) on disposition of subsidiaries | - | 97,324 | - | (288,204 | )
+Interest income | 138,130 | 1,120 | 418,621 | 89,710
+Interest expense | (377,947 | ) | (1,803,430 | ) | (684,751 | ) | (3,127,707 | )
+Total non-operating expense | (285,941 | ) | 753,845 | (301,344 | ) | (301,502 | )
+Benefit (provision) for income taxes | - | - | - | -
+Net loss | $ | (6,009,447 | ) | $ | (3,607,361 | ) | $ | (12,234,082 | ) | $ | (13,391,931 | )
+Net loss per common share
+Basic | $ | (3.76 | ) | $ | (4.76 | ) | $ | (7.70 | ) | $ | (23.46 | )
+Diluted | $ | (3.76 | ) | $ | (4.76 | ) | $ | (7.70 | ) | $ | (23.46 | )
+Weighted average common shares outstanding
+Basic | 1,597,160 | 758,306 | 1,588,854 | 570,796
+Diluted | 1,597,160 | 758,306 | 1,588,854 | 570,796

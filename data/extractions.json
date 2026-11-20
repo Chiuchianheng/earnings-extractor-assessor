@@ -1262,5 +1262,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/d174564dex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/0001193125-26-467084-index.htm",
     "saved_at": "2026-11-20T06:07:55+08:00"
+  },
+  {
+    "cik": "1382574",
+    "company": "Scienture Holdings, Inc.",
+    "accession": "0001493152-26-053245",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.254577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 1,254,577"
+      },
+      "operating_income": {
+        "value": -5.723506,
+        "unit": "USD millions",
+        "quote": "Operating loss | (5,723,506 | )"
+      },
+      "net_income": {
+        "value": -6.009447,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (6,009,447 | )"
+      },
+      "diluted_eps": {
+        "value": -3.76,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (3.76 | )"
+      }
+    },
+    "guidance": {
+      "text": "Management believes the business can reach breakeven operating income and be profitable in 2027.",
+      "quote": "the Company’s management believes the business is well poised to achieve the breakeven Operating Income of $6M and be profitable in 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue rose about 265% from the previous quarter to $1.25 million and more than doubled from a year earlier.",
+        "quote": "Revenue increased approximately 265% sequentially to $1.25 million and more than doubled year-over-year."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The company made more than $1.0 million of gross profit in the quarter.",
+        "quote": "We also generated more than $1.0 million in quarterly gross profit, reflecting what we see as attractive margins of our expanding commercial portfolio."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects revenue and margins to grow in the coming quarters.",
+        "quote": "With much of the commercial infrastructure for both products already established, we are optimistic of revenue and margin expansion in the coming quarters."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The co-CEOs speak of accelerating commercial momentum and say they are optimistic about revenue and margin expansion."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1382574-0001493152-26-053245.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226053245/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226053245/0001493152-26-053245-index.htm",
+    "saved_at": "2026-11-21T06:08:00+08:00"
+  },
+  {
+    "cik": "1530950",
+    "company": "Post Holdings, Inc.",
+    "accession": "0001530950-26-000100",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1954.5,
+        "unit": "USD millions",
+        "quote": "Net Sales | $ | 1,954.5"
+      },
+      "operating_income": {
+        "value": 205.1,
+        "unit": "USD millions",
+        "quote": "Operating Profit | 205.1"
+      },
+      "net_income": {
+        "value": 81.8,
+        "unit": "USD millions",
+        "quote": "Net Earnings | $ | 81.8"
+      },
+      "diluted_eps": {
+        "value": 1.68,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.68"
+      }
+    },
+    "guidance": {
+      "text": "Post expects Adjusted EBITDA (non-GAAP) for fiscal year 2027 of $1,450 million to $1,500 million.",
+      "quote": "Post management expects Adjusted EBITDA for fiscal year 2027 to be between $1,450-$1,500 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Fourth-quarter net sales fell 13.0% to $1,954.5 million, and the prior-year quarter included $138.5 million from divested businesses.",
+        "quote": "Net sales were $1,954.5 million, a decrease of 13.0%, or $292.5 million, compared to $2,247.0 million in the prior year period which included $138.5 million in net sales from divestitures."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Fourth-quarter operating profit rose 17.1% to $205.1 million.",
+        "quote": "Operating profit was $205.1 million, an increase of 17.1%, or $29.9 million, compared to $175.2 million in the prior year period."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects fiscal 2027 Adjusted EBITDA of $1,450 million to $1,500 million, below the $1,568.9 million of fiscal 2026.",
+        "quote": "Post management expects Adjusted EBITDA for fiscal year 2027 to be between $1,450-$1,500 million."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release has no executive quote; it sets out gains in profit next to lower sales and a lower Adjusted EBITDA outlook in plain terms."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1530950-0001530950-26-000100.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/ex99-1q42026er.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm",
+    "saved_at": "2026-11-21T06:08:00+08:00"
   }
 ]
