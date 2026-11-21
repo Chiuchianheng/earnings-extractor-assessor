@@ -1388,5 +1388,139 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/ex99-1q42026er.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm",
     "saved_at": "2026-11-21T06:08:00+08:00"
+  },
+  {
+    "cik": "41719",
+    "company": "Magnera Corp",
+    "accession": "0001140361-26-044950",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 851,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 851 | $ | 839 | $ | 3,296 | $ | 3,204"
+      },
+      "operating_income": {
+        "value": -90,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | (90 | ) | 10 | (37 | ) | 5"
+      },
+      "net_income": {
+        "value": -141,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (141 | ) | $ | (40 | ) | $ | (213 | ) | $ | (159 | )"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Magnera expects fiscal 2027 Adjusted EBITDA of $390 million to $410 million.",
+      "quote": "Fiscal Year 2027 Guidance • | Adjusted EBITDA of $390 - $410 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fourth-quarter Adjusted EBITDA rose 8% on last year and the full year beat the prior year by nearly 4%.",
+        "quote": "We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year and delivered strong overall results for the full year surpassing prior year by nearly 4%."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says Project CORE, synergies and operational focus are optimising costs and generating strong cash flow.",
+        "quote": "Through the successful implementation of Project CORE, ongoing realization of synergies, and a relentless focus on operational excellence, we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the teams faced inflationary pressures and changing demand across end markets.",
+        "quote": "Our teams delivered these results while navigating inflationary pressures and dynamic demand conditions across our end markets"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO is confident of sustainable earnings growth and strong cash generation, while mindful of the macroeconomic environment.",
+        "quote": "While we remain mindful of the broader macroeconomic environment, we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results impressive and strong and is confident about growth, with only a brief mention of inflation and the macroeconomic environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/41719-0001140361-26-044950.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+    "saved_at": "2026-11-22T06:07:59+08:00"
+  },
+  {
+    "cik": "1048268",
+    "company": "IES Holdings, Inc.",
+    "accession": "0001048268-26-000176",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1390.0,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 1,390.0 | $ | 897.8 | $ | 4,477.9 | $ | 3,371.5"
+      },
+      "operating_income": {
+        "value": 217.2,
+        "unit": "USD millions",
+        "quote": "Operating income | 217.2 | 104.3 | 605.7 | 383.5"
+      },
+      "net_income": {
+        "value": 182.3,
+        "unit": "USD millions",
+        "quote": "Net income attributable to IES Holdings, Inc. | $ | 182.3 | $ | 101.8 | $ | 536.6 | $ | 306.0"
+      },
+      "diluted_eps": {
+        "value": 4.5,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 4.50 | $ | 2.49 | $ | 13.24 | $ | 7.51"
+      }
+    },
+    "guidance": {
+      "text": "IES expects continued strong organic growth in fiscal 2027 in its Communications, Commercial & Industrial and Infrastructure Solutions segments.",
+      "quote": "we expect continued strong organic growth in fiscal 2027 in our Communications, Commercial & Industrial and Infrastructure Solutions segments."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 revenue rose 33% and operating income 58%, giving record earnings.",
+        "quote": "Year-over-year consolidated revenue increased 33% and operating income increased 58%, driven by strong execution by our operating teams, our continued investment in growth, and the strength of the key markets in which we operate."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects continued strong organic growth in fiscal 2027 in three segments, citing record backlog.",
+        "quote": "With record levels of backlog at September 30, 2026, we expect continued strong organic growth in fiscal 2027 in our Communications, Commercial & Industrial and Infrastructure Solutions segments."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The Executive Chairman says the company bought back shares during market disruption to offset dilution from the DBM Global deal.",
+        "quote": "we took advantage of the stock market disruptions impacting trading prices in our industry to repurchase 350,000 shares of our common stock at an average price of $248.00, substantially mitigating the dilutive impact of the shares issued"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CFO expects strong operating cash flow in fiscal 2027, to be used to repay debt and fund capital spending.",
+        "quote": "We expect strong operating cash flow generation from the business in fiscal 2027, which we"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports outstanding performance and record earnings, and the Executive Chairman and CFO are optimistic about fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1048268-0001048268-26-000176.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm",
+    "saved_at": "2026-11-22T06:07:59+08:00"
   }
 ]
