@@ -1522,5 +1522,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm",
     "saved_at": "2026-11-22T06:07:59+08:00"
+  },
+  {
+    "cik": "1809519",
+    "company": "GoodRx Holdings, Inc.",
+    "accession": "0001809519-26-000231",
+    "release_date": "2026-11-24",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 218.398,
+        "unit": "USD millions",
+        "quote": "Revenue | $218,398 | $196,028"
+      },
+      "operating_income": {
+        "value": 35.947,
+        "unit": "USD millions",
+        "quote": "Operating income | 35,947 | 14,620"
+      },
+      "net_income": {
+        "value": 16.416,
+        "unit": "USD millions",
+        "quote": "Net income | $16,416 | $1,119"
+      },
+      "diluted_eps": {
+        "value": 0.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $0.05 | $0.00"
+      }
+    },
+    "guidance": {
+      "text": "GoodRx raised its full-year 2026 guidance and expects revenue of $844 million to $850 million, up 6% to 7% on 2025.",
+      "quote": "Revenue | $844 - $850 | $796.9 | 6% - 7%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Pharma Direct and subscriptions now account for more than half of total revenue.",
+        "quote": "Pharma Direct and subscriptions are helping us serve more of consumers’ healthcare needs and now account for more than half of our total revenue."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the third-quarter results show the strategy set this year is working.",
+        "quote": "Our third quarter results show that the strategy we set in motion this year is working"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says the company is raising full-year revenue and Adjusted EBITDA guidance and expects 2026 to be a record year for both.",
+        "quote": "We are raising our full-year revenue and Adjusted EBITDA2 guidance, which incorporates the restatement of our first and second quarter results, and expect 2026 to be a record year for both measures."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the strategy is working and the CFO raises guidance and expects a record year for revenue and Adjusted EBITDA."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1809519-0001809519-26-000231.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrxq326-exx991pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/0001809519-26-000231-index.htm",
+    "saved_at": "2026-11-26T06:07:56+08:00"
+  },
+  {
+    "cik": "1089063",
+    "company": "DICK'S SPORTING GOODS, INC.",
+    "accession": "0001089063-26-000039",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 5133.468,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 5,133,468 | 100.00 | % | $ | 4,167,773"
+      },
+      "operating_income": {
+        "value": 240.793,
+        "unit": "USD millions",
+        "quote": "OPERATING INCOME | 240,793 | 4.69 | 93,097 | 2.23"
+      },
+      "net_income": {
+        "value": 161.216,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 161,216 | 3.14 | % | $ | 75,212"
+      },
+      "diluted_eps": {
+        "value": 1.87,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.87 | $ | 0.86"
+      }
+    },
+    "guidance": {
+      "text": "The company expects full-year 2026 consolidated net sales of $22.0 billion to $22.2 billion.",
+      "quote": "Net sales | ●$22.0 billion to 22.2 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says comparable sales for the DICK'S Business rose 2.6%, helped by a very strong back-to-school season.",
+        "quote": "Comp sales for the DICK'S Business increased 2.6%, including a very strong back-to-school season."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The Executive Chairman says Foot Locker delivered a slightly positive comp despite a challenging athletic footwear market.",
+        "quote": "We also made progress at Foot Locker and delivered a slightly positive comp, despite a continued challenging athletic footwear marketplace."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising the low end of its full-year comp sales outlook and its operating income expectations.",
+        "quote": "we are raising the low end of our full-year 2026 comp sales outlook and increasing our operating income expectations."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The Executive Chairman says the company returned over $900 million to shareholders by repurchasing 6.7 million shares in the quarter.",
+        "quote": "During the quarter, we returned over $900 million of capital to shareholders through the opportunistic repurchase of 6.7 million shares"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management calls the DICK'S quarter strong, notes progress at Foot Locker despite a challenging market, and raises its outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1089063-0001089063-26-000039.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261031xex991earnings.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm",
+    "saved_at": "2026-11-26T06:07:56+08:00"
   }
 ]
