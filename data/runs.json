@@ -4745,5 +4745,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-27T06:38:13+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 9,
+      "mismatch": 0,
+      "cannot_check": 11
+    },
+    "companies": [
+      {
+        "cik": "1484769",
+        "company": "FuboTV Inc.",
+        "accession": "0001493152-26-052703",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "41719",
+        "company": "Magnera Corp",
+        "accession": "0001140361-26-044950",
+        "period_label": "quarter ended 26 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 1,
+        "claims_mismatch": 3,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1089063",
+        "company": "DICK'S SPORTING GOODS, INC.",
+        "accession": "0001089063-26-000039",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1005210",
+        "company": "SUBURBAN PROPANE PARTNERS LP",
+        "accession": "0001193125-26-477186",
+        "period_label": "quarter ended 26 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "50493",
+        "company": "INGLES MARKETS INC",
+        "accession": "0001437749-26-038232",
+        "period_label": "quarter ended 26 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 9 figures confirmed, 0 mismatches, 11 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-27T06:08:13+08:00",
+      "watch_brief": "briefs/2026-11-27-watch.md",
+      "brief_says": 7,
+      "saved_for_run": 7,
+      "match": true
+    },
+    "offline": false
   }
 ]
