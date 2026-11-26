@@ -1654,5 +1654,125 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261031xex991earnings.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm",
     "saved_at": "2026-11-26T06:07:56+08:00"
+  },
+  {
+    "cik": "1005210",
+    "company": "SUBURBAN PROPANE PARTNERS LP",
+    "accession": "0001193125-26-477186",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 219.864,
+        "unit": "USD millions",
+        "quote": "Revenues | 219,864"
+      },
+      "operating_income": {
+        "value": -12.909,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (12,909"
+      },
+      "net_income": {
+        "value": -56.841,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (56,841"
+      },
+      "diluted_eps": {
+        "value": -0.85,
+        "unit": "USD per share",
+        "quote": "Net (loss) income per Common Unit - diluted | $ | (0.85"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO calls fiscal 2026 another strong year, with solid propane results, larger RNG capacity and lower debt.",
+        "quote": "Fiscal 2026 was another strong year for Suburban Propane with solid results in our propane operations, the completion of capital projects to increase the scale of our renewable natural gas (“RNG”) business, and continued debt reduction to further strengthen our financial position."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says the propane segment gained from strong heat-related demand in the eastern United States and from counter-seasonal customers.",
+        "quote": "Our propane segment benefited from strong heat-related demand across the eastern half of the United States during the 2026 heating season, as well as continued growth in our counter-seasonal customer base."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says total debt fell by more than $25.0 million and the leverage metric improved to 4.13x.",
+        "quote": "We also reduced total debt by more than $25.0 million, which, combined with the $6.0 million increase in Adjusted EBITDA, improved our leverage metric to 4.13x at the end of fiscal 2026."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the partnership enters fiscal 2027 with a larger, more reliable RNG platform and room to raise production.",
+        "quote": "With these investments in place, we enter fiscal 2027 with a larger, more reliable RNG platform, opportunities to increase production through capacity optimization and higher feedstock intake, and the ability to enhance our earnings profile from the recognition of additional PTCs."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year strong, cites lower debt and a raised distribution, and describes the RNG platform as larger and more reliable."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1005210-0001193125-26-477186.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/sph-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/0001193125-26-477186-index.htm",
+    "saved_at": "2026-11-27T06:08:13+08:00"
+  },
+  {
+    "cik": "50493",
+    "company": "INGLES MARKETS INC",
+    "accession": "0001437749-26-038232",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1374.311,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,374,311"
+      },
+      "operating_income": {
+        "value": 24.545,
+        "unit": "USD millions",
+        "quote": "Income from operations | 24,545"
+      },
+      "net_income": {
+        "value": 18.511,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,511"
+      },
+      "diluted_eps": {
+        "value": 0.97,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share – Class A | $ | 0.97"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Executive Chairman thanks the company's associates for the care they show customers.",
+        "quote": "Thank you to our associates for the care they show our customers every day."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The Executive Chairman says he is grateful for staff's hard work and for customers' loyalty as the fiscal year closes.",
+        "quote": "As we close the fiscal year, I am grateful for their hard work and for the loyalty of the families who shop with us."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The Executive Chairman thanks staff and customers but says nothing about the quarter's results or the outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50493-0001437749-26-038232.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
+    "saved_at": "2026-11-27T06:08:13+08:00"
   }
 ]
