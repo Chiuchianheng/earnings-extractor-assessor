@@ -15484,5 +15484,224 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-27T06:38:13+08:00"
+  },
+  {
+    "accession": "0001089063-26-000039",
+    "cik": "1089063",
+    "company": "DICK'S SPORTING GOODS, INC.",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "Rechecked: still no filed figure for the quarter, as the 10-Q is not filed yet. The quote is in the release and holds 5,133,468 thousand (5,133.468 USD millions)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "Rechecked: still no filed figure for the quarter, as the 10-Q is not filed yet. The quote is in the release and holds 240,793 thousand (240.793 USD millions)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Rechecked: still no filed figure for the quarter, as the 10-Q is not filed yet. The quote is in the release and holds 161,216 thousand (161.216 USD millions)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Rechecked: still no filed figure for the quarter, as the 10-Q is not filed yet. The quote is in the release and holds 1.87."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number (5,133.468; 240.793; 161.216; 1.87). The 10-Q check is still to come; it was not filed at this recheck."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and so is the guidance (full-year 2026 net sales of $22.0 billion to $22.2 billion) with its quote."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "Usable as it stands: the four GAAP figures match the release. The analyst should know that revenue growth of 23.2% mostly reflects the Foot Locker acquisition; DICK'S Business sales rose 3.1%."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "5,133.468 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-10-31 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "240.793 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-10-31 under OperatingIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "net_income": {
+        "extracted": "161.216 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-10-31 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "1.87 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-10-31 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's own table: DICK'S Sporting Goods comparable sales 2.6% for the 13 weeks (5.7% a year ago); its net sales rose to 3,336.8 from 3,236.9 (+3.1%). The back-to-school season cannot be tested."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's own table: proforma Foot Locker comparable sales 0.5% against (4.7)% a year ago, slightly positive. Foot Locker segment profit was still a loss of 40.9, against a loss of 46.3 a year ago."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Consistent with the trend on a year ago: operating income rose 158.6% to 240.793 (margin 4.7% against 2.2%), though it fell 45.4% on the previous quarter. The release raises consolidated EPS guidance to 11.40-12.25 from 10.94-11.94."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Tested on the release's text: it repurchased 6.7 million shares for $903 million in the third quarter, over $900 million. The fundamentals cannot test it; diluted shares fell to 86 million from 87 million."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Reported figures bear it out on a year ago: revenue +23.2%, operating income +158.6%, EPS 1.87 against 0.86. But the year-ago quarter held only about eight weeks of Foot Locker, and non-GAAP EPS fell to 1.94 from 2.07."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 5133.468,
+        "this_quarter_from": "release",
+        "year_ago": 4167.773,
+        "change_year": 23.2,
+        "previous_quarter": 5586.815,
+        "change_quarter": -8.1
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 240.793,
+        "this_quarter_from": "release",
+        "year_ago": 93.097,
+        "change_year": 158.6,
+        "previous_quarter": 440.756,
+        "change_quarter": -45.4
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 161.216,
+        "this_quarter_from": "release",
+        "year_ago": 75.212,
+        "change_year": 114.3,
+        "previous_quarter": 315.461,
+        "change_quarter": -48.9
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.87,
+        "this_quarter_from": "release",
+        "year_ago": 0.86,
+        "change_year": 117.4,
+        "previous_quarter": 3.5,
+        "change_quarter": -46.6
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 4.690649673865699,
+        "this_quarter_from": "release",
+        "year_ago": 2.2337348987096943,
+        "change_year": 2.5,
+        "previous_quarter": 7.8892177385504985,
+        "change_quarter": -3.2
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 3.1404890417160485,
+        "this_quarter_from": "release",
+        "year_ago": 1.804608840260734,
+        "change_year": 1.3,
+        "previous_quarter": 5.646526688283038,
+        "change_quarter": -2.5
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says comparable sales for the DICK'S Business rose 2.6%, helped by a very strong back-to-school season.",
+        "quote": "Comp sales for the DICK'S Business increased 2.6%, including a very strong back-to-school season.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The Executive Chairman says Foot Locker delivered a slightly positive comp despite a challenging athletic footwear market.",
+        "quote": "We also made progress at Foot Locker and delivered a slightly positive comp, despite a continued challenging athletic footwear marketplace.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising the low end of its full-year comp sales outlook and its operating income expectations.",
+        "quote": "we are raising the low end of our full-year 2026 comp sales outlook and increasing our operating income expectations.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The Executive Chairman says the company returned over $900 million to shareholders by repurchasing 6.7 million shares in the quarter.",
+        "quote": "During the quarter, we returned over $900 million of capital to shareholders through the opportunistic repurchase of 6.7 million shares",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "Management calls the DICK'S quarter strong, notes progress at Foot Locker despite a challenging market, and raises its outlook."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-28T06:37:56+08:00"
   }
 ]
